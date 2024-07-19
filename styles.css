@@ -9,30 +9,19 @@ body, html {
 /* Ensure the body is scrollable */
 body {
     display: flex;
-    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     height: 100vh;
     background-color: #393939; /* Background color */
 }
 
-/* Header styling */
-header {
-    padding: 20px;
-    text-align: center;
-    color: #f0f0f0; /* Lighter grey for text */
-}
-
-/* Title styling */
-header h1 {
-    margin: 0;
-}
-
 /* Main content styling */
 main {
-    flex: 1;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    width: 100%;
 }
 
 /* Search container styling */
