@@ -47,6 +47,10 @@ header {
     cursor: pointer;
     border-radius: 4px; /* Rounded corners */
     text-align: center; /* Center text within button */
+    display: flex; /* Flexbox for centering text */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    text-decoration: none; /* Remove underline for links */
 }
 
 .top-button:hover {
