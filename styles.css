@@ -1,35 +1,82 @@
-name: Jekyll Build and Deploy
+/* Reset basic elements */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+    background-color: #292929; /* Background color */
+    color: #B0B0B0; /* Text color */
+}
 
-on:
-  push:
-    branches:
-      - main  # Change this to your default branch if it's different
+/* Ensure the body is scrollable */
+body {
+    display: flex;
+    flex-direction: column;
+}
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+/* Top bar styling */
+.top-bar {
+    width: 1918px;
+    height: 128px;
+    background-color: #393939; /* Slightly darker grey for the top bar */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+    box-sizing: border-box;
+}
 
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
+/* Button styling */
+.top-button {
+    width: 100px;
+    height: 40px;
+    background-color: #535353; /* Button color */
+    border: 1px solid #000000; /* Black border */
+    color: #B0B0B0; /* Text color */
+    cursor: pointer;
+}
 
-    - name: Set up Ruby
-      uses: actions/setup-ruby@v1
-      with:
-        ruby-version: '2.7'  # Specify Ruby version
+.top-button:hover {
+    background-color: #606060; /* Darker grey on hover */
+}
 
-    - name: Install dependencies
-      run: |
-        gem install bundler
-        bundle install --jobs 4 --retry 3
+/* Main content styling */
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex: 1;
+    width: 100%;
+}
 
-    - name: Build site with Jekyll
-      run: bundle exec jekyll build
+/* Search container styling */
+.search-container {
+    display: flex;
+    align-items: center;
+}
 
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./_site  # Adjust this if your output directory is different
-        keep_files: true  # Keep files to avoid deleting other pages
-        fqdn: yourdomain.com # Adjust this if you're using a custom domain
+/* Search bar styling */
+#search-bar {
+    padding: 10px;
+    border: 1px solid #000000; /* Black border */
+    border-radius: 4px 0 0 4px;
+    outline: none;
+    width: 200px;
+    background-color: #535353; /* Search bar color */
+    color: #B0B0B0; /* Text color */
+}
+
+/* Search button styling */
+#search-button {
+    padding: 10px;
+    border: 1px solid #000000; /* Black border */
+    border-radius: 0 4px 4px 0;
+    background-color: #535353; /* Search button color */
+    cursor: pointer;
+    color: #B0B0B0; /* Text color */
+}
+
+#search-button:hover {
+    background-color: #606060; /* Darker grey on hover */
+}
