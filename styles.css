@@ -20,7 +20,7 @@ header {
     top: 0; /* Align to the top edge */
     left: 0; /* Align to the left edge */
     right: 0; /* Align to the right edge */
-    height: 50px; /* Set header height */
+    height: 65px; /* Increased header height by 15px */
     display: flex;
     align-items: center; /* Center align items vertically */
     padding: 0 20px; /* Padding from the sides */
@@ -38,9 +38,9 @@ header {
 
 /* Top button styling */
 .top-button {
-    width: 45px; /* Set button width */
-    height: 45px; /* Set button height */
-    margin: 15px 25px; /* Margin from top/bottom and left/right */
+    width: 60px; /* Increased button width */
+    height: 60px; /* Increased button height */
+    margin: 15px 25px; /* Adjust margin for spacing */
     border: 1px solid #000000; /* Black border */
     background-color: #535353; /* Button color */
     color: #B0B0B0; /* Text color */
@@ -51,6 +51,7 @@ header {
     justify-content: center; /* Center horizontally */
     align-items: center; /* Center vertically */
     text-decoration: none; /* Remove underline for links */
+    font-size: 14px; /* Adjust font size if needed */
 }
 
 .top-button:hover {
@@ -59,13 +60,13 @@ header {
 
 /* Main content styling */
 main {
-    margin-top: 50px; /* Space for header */
+    margin-top: 65px; /* Increased margin for header */
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     width: 100%;
-    height: calc(100vh - 50px); /* Adjust height for the header */
+    height: calc(100vh - 65px); /* Adjust height for the larger header */
 }
 
 /* Search container styling */
@@ -76,23 +77,24 @@ main {
 
 /* Search bar styling */
 #search-bar {
-    padding: 10px;
+    padding: 15px; /* Increased padding for larger search bar */
     border: 1px solid #000000; /* Black border */
     border-radius: 4px 0 0 4px;
     outline: none;
-    width: 200px;
+    width: 250px; /* Increase width if needed */
     background-color: #535353; /* Search bar color */
     color: #B0B0B0; /* Text color */
 }
 
 /* Search button styling */
 #search-button {
-    padding: 10px;
+    padding: 15px; /* Increased padding for larger button */
     border: 1px solid #000000; /* Black border */
     border-radius: 0 4px 4px 0;
     background-color: #535353; /* Search button color */
     cursor: pointer;
     color: #B0B0B0; /* Text color */
+    font-size: 14px; /* Adjust font size if needed */
 }
 
 #search-button:hover {
