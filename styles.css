@@ -64,6 +64,7 @@ header {
     width: 100%; /* Make image fill the button */
     height: 100%; /* Make image fill the button */
     object-fit: cover; /* Ensure image covers button area */
+    border-radius: 12px; /* Match the button's border-radius */
 }
 
 /* Main content styling */
