@@ -58,6 +58,13 @@ header {
     background-color: #606060; /* Darker grey on hover */
 }
 
+/* Image inside button styling */
+.button-image {
+    width: 100%; /* Make image fill the button */
+    height: 100%; /* Make image fill the button */
+    object-fit: cover; /* Ensure image covers button area */
+}
+
 /* Main content styling */
 main {
     margin-top: 80px; /* Space for header */
