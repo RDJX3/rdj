@@ -44,7 +44,7 @@ main {
 /* Search bar styling */
 #search-bar {
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #000000; /* Black border */
     border-radius: 4px 0 0 4px;
     outline: none;
     width: 200px;
@@ -55,7 +55,7 @@ main {
 /* Search button styling */
 #search-button {
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #000000; /* Black border */
     border-radius: 0 4px 4px 0;
     background-color: #4D4D4D; /* Slightly lighter grey */
     cursor: pointer;
