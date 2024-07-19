@@ -4,40 +4,16 @@ body, html {
     padding: 0;
     height: 100%;
     font-family: Arial, sans-serif;
-    background-color: #292929; /* Background color */
-    color: #B0B0B0; /* Text color */
 }
 
 /* Ensure the body is scrollable */
 body {
     display: flex;
-    flex-direction: column;
-}
-
-/* Top bar styling */
-.top-bar {
-    width: 1918px;
-    height: 128px;
-    background-color: #393939; /* Slightly darker grey for the top bar */
-    display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
-    padding: 0 10px;
-    box-sizing: border-box;
-}
-
-/* Button styling */
-.top-button {
-    width: 100px;
-    height: 40px;
-    background-color: #535353; /* Button color */
-    border: 1px solid #000000; /* Black border */
+    height: 100vh;
+    background-color: #292929; /* Background color */
     color: #B0B0B0; /* Text color */
-    cursor: pointer;
-}
-
-.top-button:hover {
-    background-color: #606060; /* Darker grey on hover */
 }
 
 /* Main content styling */
@@ -46,7 +22,6 @@ main {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    flex: 1;
     width: 100%;
 }
 
