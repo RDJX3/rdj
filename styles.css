@@ -6,21 +6,31 @@ body, html {
     font-family: Arial, sans-serif;
 }
 
-/* Make the site scrollable */
+/* Ensure the body is scrollable */
 body {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 200vh; /* Double the height of the viewport to enable scrolling */
+    flex-direction: column;
+    height: 100vh;
 }
 
-/* Center the search bar */
-.container {
+/* Header styling */
+header {
+    padding: 20px;
+    text-align: center;
+}
+
+/* Title styling */
+header h1 {
+    margin: 0;
+}
+
+/* Main content styling */
+main {
+    flex: 1;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100%;
-    width: 100%;
+    flex-direction: column;
 }
 
 /* Search container styling */
@@ -35,6 +45,7 @@ body {
     border: 1px solid #ccc;
     border-radius: 4px 0 0 4px;
     outline: none;
+    width: 200px;
 }
 
 /* Search button styling */
@@ -49,4 +60,3 @@ body {
 #search-button:hover {
     background-color: #d4edda; /* Light green on hover */
 }
-
