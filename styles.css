@@ -11,7 +11,7 @@ body {
     display: flex;
     flex-direction: column;
     height: 100vh;
-    background-color: #282828; /* Grey background */
+    background-color: #393939; /* Background color */
 }
 
 /* Header styling */
@@ -48,7 +48,8 @@ main {
     border-radius: 4px 0 0 4px;
     outline: none;
     width: 200px;
-    background-color: #505050; /* Slightly lighter grey */
+    background-color: #4D4D4D; /* Slightly lighter grey */
+    color: white; /* Text color */
 }
 
 /* Search button styling */
@@ -56,10 +57,11 @@ main {
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 0 4px 4px 0;
-    background-color: #505050; /* Slightly lighter grey */
+    background-color: #4D4D4D; /* Slightly lighter grey */
     cursor: pointer;
+    color: white; /* Text color */
 }
 
 #search-button:hover {
-    background-color: #5F5F5F; /* Light green on hover */
+    background-color: #606060; /* Darker grey on hover */
 }
