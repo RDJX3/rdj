@@ -17,12 +17,12 @@ body {
 /* Header styling */
 header {
     position: fixed; /* Fix the header to the top of the viewport */
-    top: 0px; /* 30px from the top */
+    top: 0; /* Align to the top edge */
     left: 0; /* Align to the left edge */
     right: 0; /* Align to the right edge */
+    height: 50px; /* Set header height */
     display: flex;
-    justify-content: space-between; /* Distribute buttons evenly */
-    align-items: center;
+    align-items: center; /* Center align items vertically */
     padding: 0 20px; /* Padding from the sides */
     background-color: #1A1A1A; /* Ensure consistent background */
     z-index: 1000; /* Ensure it stays on top */
@@ -33,18 +33,19 @@ header {
     display: flex;
     justify-content: space-between; /* Distribute buttons evenly */
     width: 100%;
+    height: 100%; /* Make sure top bar takes full height of header */
 }
 
 /* Top button styling */
 .top-button {
-    flex: 1; /* Make buttons expand to fill space */
-    padding: 10px 20px;
+    width: 45px; /* Set button width */
+    height: 45px; /* Set button height */
+    margin: 15px 25px; /* Margin from top/bottom and left/right */
     border: 1px solid #000000; /* Black border */
     background-color: #535353; /* Button color */
     color: #B0B0B0; /* Text color */
     cursor: pointer;
     border-radius: 4px; /* Rounded corners */
-    margin: 0 5px; /* Space between buttons */
     text-align: center; /* Center text within button */
 }
 
@@ -54,13 +55,13 @@ header {
 
 /* Main content styling */
 main {
-    margin-top: 80px; /* Space for header */
+    margin-top: 50px; /* Space for header */
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     width: 100%;
-    height: calc(100vh - 30px); /* Adjust height for the header */
+    height: calc(100vh - 50px); /* Adjust height for the header */
 }
 
 /* Search container styling */
