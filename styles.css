@@ -20,7 +20,7 @@ header {
     top: 0; /* Align to the top edge */
     left: 0; /* Align to the left edge */
     right: 0; /* Align to the right edge */
-    height: 65px; /* Increased header height by 15px */
+    height: 80px; /* Increase header height */
     display: flex;
     align-items: center; /* Center align items vertically */
     padding: 0 20px; /* Padding from the sides */
@@ -38,9 +38,9 @@ header {
 
 /* Top button styling */
 .top-button {
-    width: 60px; /* Increased button width */
-    height: 60px; /* Increased button height */
-    margin: 15px 25px; /* Adjust margin for spacing */
+    width: 60px; /* Increase button width */
+    height: 60px; /* Increase button height */
+    margin: 10px 20px; /* Adjust margin for spacing */
     border: 1px solid #000000; /* Black border */
     background-color: #535353; /* Button color */
     color: #B0B0B0; /* Text color */
@@ -60,13 +60,13 @@ header {
 
 /* Main content styling */
 main {
-    margin-top: 65px; /* Increased margin for header */
+    margin-top: 80px; /* Space for header */
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     width: 100%;
-    height: calc(100vh - 65px); /* Adjust height for the larger header */
+    height: calc(100vh - 80px); /* Adjust height for the larger header */
 }
 
 /* Search container styling */
@@ -77,7 +77,7 @@ main {
 
 /* Search bar styling */
 #search-bar {
-    padding: 15px; /* Increased padding for larger search bar */
+    padding: 15px; /* Increase padding for larger search bar */
     border: 1px solid #000000; /* Black border */
     border-radius: 4px 0 0 4px;
     outline: none;
@@ -88,7 +88,7 @@ main {
 
 /* Search button styling */
 #search-button {
-    padding: 15px; /* Increased padding for larger button */
+    padding: 15px; /* Increase padding for larger button */
     border: 1px solid #000000; /* Black border */
     border-radius: 0 4px 4px 0;
     background-color: #535353; /* Search button color */
