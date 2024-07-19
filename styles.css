@@ -24,7 +24,7 @@ header {
     justify-content: space-between; /* Distribute buttons evenly */
     align-items: center;
     padding: 0 20px; /* Padding from the sides */
-    background-color: #292929; /* Ensure consistent background */
+    background-color: #1A1A1A; /* Ensure consistent background */
     z-index: 1000; /* Ensure it stays on top */
 }
 
