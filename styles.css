@@ -38,20 +38,21 @@ header {
 
 /* Top button styling */
 .top-button {
-    width: 60px; /* Increase button width */
-    height: 60px; /* Increase button height */
+    width: 60px; /* Set button width */
+    height: 60px; /* Set button height */
     margin: 10px 20px; /* Adjust margin for spacing */
     border: 1px solid #000000; /* Black border */
     background-color: #535353; /* Button color */
     color: #B0B0B0; /* Text color */
     cursor: pointer;
-    border-radius: 4px; /* Rounded corners */
+    border-radius: 12px; /* Smoother corners */
     text-align: center; /* Center text within button */
     display: flex; /* Flexbox for centering text */
     justify-content: center; /* Center horizontally */
     align-items: center; /* Center vertically */
     text-decoration: none; /* Remove underline for links */
     font-size: 14px; /* Adjust font size if needed */
+    overflow: hidden; /* Ensure content does not overflow */
 }
 
 .top-button:hover {
