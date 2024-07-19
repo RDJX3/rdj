@@ -23,8 +23,8 @@ header {
     display: flex;
     justify-content: space-between; /* Distribute buttons evenly */
     align-items: center;
-    padding: 0 20px; /* Optional: padding from the sides */
-    background-color: #1A1A1A; /* Ensure consistent background */
+    padding: 0 20px; /* Padding from the sides */
+    background-color: #292929; /* Ensure consistent background */
     z-index: 1000; /* Ensure it stays on top */
 }
 
@@ -44,7 +44,7 @@ header {
     color: #B0B0B0; /* Text color */
     cursor: pointer;
     border-radius: 4px; /* Rounded corners */
-    margin: 0 10px; /* Space between buttons */
+    margin: 0 5px; /* Space between buttons */
     text-align: center; /* Center text within button */
 }
 
