@@ -6,8 +6,6 @@ body, html {
 }
 
 * {
-    margin: 0;
-    padding: 0;
     box-sizing: border-box;
 }
 
@@ -42,7 +40,7 @@ header {
     width: 60px;
     height: 60px;
     margin: 10px 20px;
-    border: 1px solid #000000;
+    border: 1px solid #000;
     background-color: #535353;
     color: #B0B0B0;
     cursor: pointer;
@@ -53,7 +51,6 @@ header {
     align-items: center;
     text-decoration: none;
     font-size: 14px;
-    overflow: hidden;
 }
 
 .top-button:hover {
@@ -84,7 +81,7 @@ main {
 
 #search-bar {
     padding: 15px;
-    border: 1px solid #000000;
+    border: 1px solid #000;
     border-radius: 4px 0 0 4px;
     outline: none;
     width: 250px;
@@ -94,7 +91,7 @@ main {
 
 #search-button {
     padding: 15px;
-    border: 1px solid #000000;
+    border: 1px solid #000;
     border-radius: 0 4px 4px 0;
     background-color: #535353;
     cursor: pointer;
@@ -109,7 +106,7 @@ main {
 .text-button {
     background-color: #535353;
     color: #B0B0B0;
-    border: 1px solid #000000;
+    border: 1px solid #000;
     padding: 10px 20px;
     margin: 5px;
     cursor: pointer;
