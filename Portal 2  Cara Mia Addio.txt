@@ -1,0 +1,39 @@
+Transpose by: -2
+[ta], s, [ud], s -
+a - [tf] - d - s, [ua],
+s - d, [tf], d,
+i, s, [td]...
+[is] - d - f, [td] - s - s,
+[us], d - s - [ta] - s - d,
+[ug], f - d - [yf], d,
+[is], d, y...
+[if] - d - s - d - [td], s,
+[ua], s, [th], g -
+f - [ud] - s - d - f - [tf],
+d, i, g, [tg],
+f, [id], f, [td],
+s, [us], d, [tf],
+d - s - d - f - g - g,
+f, d, s - d - d...
+s, a, s......
+[8a], s, [7d], s -
+a - [6f] - d - s, a,
+s - d - [4f] - d - d...
+s, [5d]... s -
+d - f, [6d] - s - s,
+s - d - d - a - [5a], d,
+g - f - f - d - [4f], d,
+s - a - s - d - 4...
+f - d - d, [8s] - d - s,
+a, s, [7h], g -
+f - d - s - d - f - [6f],
+d... f - g - [4g],
+f, [5d], f, [8d],
+s, s, d, [8f],
+d - s - d - f - g - [4g],
+f, d, s - d - [5d]...
+s, a, [8s], d,
+[7f], d - s - [6d] - s - a,
+s, s - d - [4f], d...
+g, [5g], f, d -
+s - d, [8f]

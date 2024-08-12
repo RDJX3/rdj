@@ -1,0 +1,75 @@
+Transpose by: +5
+[5r], 9 9, 2,
+w - e r - t - [1y]...
+t - r - t 3 - r - e r - 2 - e
+w, [5r], 9 9,
+2, w - w - e r - t - [1y]...
+t - r t - 3 - r e - r - 2 - e
+w, [:r'y] - y - y - y -
+Y, y - E...
+[@y], y - y - Y - t - 4....
+[:r'y] - y, y, i Y - 5 -
+y... t - E - [@y],
+y - y - Y, [4t] - t,
+E - e - [5w], y - y,
+2... t - r - t 1 -
+r - e r - 3 - e w - e - 2....
+[5wr].... [2we],
+Q... [10e], w...
+[30w], [Q2e], [5r],
+9 - 9, 2,
+w - e - r t - [1y]...
+t r - t - 3 r - e - r 2 - e -
+w - [5r], 9 - 9,
+2, w w - e - r t - [1y]...
+t - r - t - 3 r - e r - 2 - e -
+w - [:r'y] - y - y - y,
+Y - y... t E -
+[@y] - y - y, Y - t 4....
+E - [:r'y] - y - y, i - Y
+5 - y... t - E - [@y] -
+y, y - Y - [4t], t -
+E - e, [5w], y - y,
+2... t r - t - 1
+r - e - r - 3 e - w e - 2....
+[^E], i i, 4...
+Y y - Y - @ y - t - y 5 - t -
+E t - 4....
+[2y], p... :t,
+p - o - I, [$T], e...
+$, e - e - r - T - [5r]....
+u y [6T], y - u, I -
+[2I].... I o [2p] -
+o - I - y - r - [2e] - [4i]...
+i i - o - [2p] - p - p - p -
+o - i - [:e'6p], u - u,
+[:e'6]... t - [:r'y],
+d, [1s] - o - p,
+P - [4P], p o p,
+4.... [2G] -
+f - d p - I - u y - e - y....
+[5r], 9 - 9, 2,
+w w - e - r t - [1y]...
+t - r - t - 3 r - e - r 2 - e -
+w - [5r], 9 - 9,
+2, w w - e - r t - [1y]...
+t - r - t - 3 r - e r - 2 - e -
+w - [:r'y] - y - y - y,
+Y - y... t - E -
+[@y] - y - y, Y - t 4...
+t, E - [:r'^y] - y - y,
+i - Y 5 - y... t -
+E - [@y] - y, y - Y -
+[4t], t - E - e, [5w],
+y - y, 2...
+t r - t - 1 r - e - r - 3 e -
+w e - 2, r - t r -
+e - [5w], y y,
+2... t r - t - 1
+r - e - r 3 - e - w e - 2,
+r t - r - e - [5w], y y,
+2... t - r - t - 1
+r - e - r 3 - e - w e - 2,
+r t - r - e - [5w], y y,
+2... t - r - t 1 -
+r - e r - 3 - e - w [2e]

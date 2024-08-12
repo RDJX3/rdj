@@ -1,0 +1,92 @@
+Transpose by: -5
+[wa], o, a o - o,
+[Ys], o, s, o,
+[ya], o, a, o,
+[tp], o, p - o o,
+[wa], o, a, o,
+[Ys] - o o, s, D,
+[id], o, d, o,
+[Ys], o, s, o,
+[wa], o, a, o,
+[Ys] - o o, a, p,
+[wa], o, a, p,
+[to], p, o, p,
+[qa], i, a, i,
+p, i, [qp], [0o],
+[(p], Y, p, Y,
+o, Y, [(o], [9i],
+[9u].... [9y]......
+[9u].... [9y]......
+9, Z, z, l,
+j, h, l, f,
+[9d].... 9....
+f, g, q....
+[qp].... s,
+d, 9....
+[9i]......
+9, Z, z - Z-l,
+j, h, l, f,
+[9d].... 9....
+f, g, q...
+k, l, q...
+V, b, 9...
+l, z, 9, l,
+z, x, 8, n...
+x, 8, l, k,
+j, q, n...
+x, q, k, l,
+x, 8, n, b,
+v, 8, c, x,
+z, q, l, k,
+h, q... f...
+9, Z, z, l,
+j, h, l, f,
+[9d]......
+e... y...
+w, a, a, g,
+[eg], k, [rk], z,
+[tx], z, x z x,
+r... e, l - z -
+[8x], h - l h, g - h -
+g, f, f, d,
+[qp], p, s, s,
+f, f, h, h,
+8, h, h, g - h -
+[0g], f, f, d,
+[qp], p, s, s p -
+f, f, j, j,
+[8k], h, h, g h -
+g, f, f, d,
+[qs], s, g, g,
+[gj], j, [jz], z,
+[8k], h, h, g h -
+[0g], f, f, d,
+[qd], d, g, g,
+[ej], j, [jz], z -
+z-E, z, z, l,
+[ql], j, h, f,
+[9d].... 9......
+q, j, j, l,
+[el], x, x, v,
+[9v].... 9......
+^, z, z, l,
+[8j], j, h, f,
+[9d]......
+e... w, l - z -
+[8x], h, h, g,
+g, f, f, d,
+p, p, s, s,
+[ef], f, h, h,
+8, h, h, g,
+[0g], f, f, d,
+p, p, s, s,
+[ef], f, j, j,
+[8k], h, h, g,
+g, f, f, d,
+[qs], s, g, g,
+[ej], j, [jz], z,
+[8k], h, h, g,
+[8g], f, f, d,
+[qd], d, g, g,
+[ej], j, z, z,
+[0x]......

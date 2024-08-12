@@ -1,0 +1,80 @@
+Transpose by: -10
+[9y].... l - j
+h - j j - h, [9y] -
+[9y], [8t] - l - [7rz] - [6ex] z - [6ez]
+l - z - [5wj] - [6el] - [8tz] - [9yx] z - [9yz] l -
+z - [0uj] - [8tl] - [7rz] - [6ex] z - [6ez] l - z -
+[6ej], [6e] - [9y] - [9y], [8tj] -
+l - [7rz] - [6ex] z - [6ez] l - z [8tj] - l -
+[6ez] - [5wx] z - [5wz] l - z [8tj] - l - [5wz] -
+[4qx] z - [4qz] l - z - [30j] - j - [30] [9y] -
+[9y], [8t], [7r] [6ex] z - [6ez]
+l - z - [5wj] - [6el] - [8tz] - [9yx] z - [9yz] l -
+z - [0uj] - [8tl] - [7rz] - [6ex] z - [6ez] l,
+[6e] - z [6ej] - [9y] - [9y], [8tj] -
+l - [7rz] - [6ex] z - [6ez] l - z [8tj] - l -
+[6ez] - [5wx] z - [5wz] l - z [8tj] - l - [5wz] -
+[4qx] z - [4qz] l - z - [30j], [30] 9 -
+e y - e y [ej] - [yj] - [eh] - [ej] - u
+[pj] [uh] [pj] - u-j p - [uj] - 9 - e y -
+e y - [ej] - [yj] - [eh] - [ej] - u [pj] - [uh]
+[pj] - u-j p - [uj] - 9 - e y - e y -
+[ej] - [yj] - [eh] - [ej] - u [pj] [uh] [pj] - u-
+j p - [uj] - w - y o - y o - [yj] -
+[of] - [yf] [qh] - t i - t - [qi] - 0 r -
+u 9 - e y - i - [yjzv] - [ipjzv] [jzv]
+u [ev] [ux] - [px] - [sx] - [xv] - u [psb] x e
+[9z] - e y - i - [yjzv] - [ipjzv] [jzv] u [ev]
+[ux] - [px] - [sx] - [xv] u - [psb] x e [9jz] - e
+y - i - [yjzv] - [ipjzv] x u [ev] [ux] - [px] -
+[sx] - [xv] - u [psb] x y [wz] - [yl] - [oz] x,
+[wol] - [yadj] h t [qj] - t-i p s g 0 - r-
+u o a f [9y] - [9y], [8t]
+l - [7rz] - [6ex] z - [6ez] l - z - [5wj] - [6el] -
+[8tz] - [9yx] z - [9yz] l - z - [0uj] - [8tl] - [7rz] -
+[6ex] z - [6ez] l - z - [6ej], [6e] - [9y] -
+[9y], [8tj] - l - [7rz] - [6ex] z - [6ez]
+l - z [8tj] - l [6ez] - [5wx] z - [5wz] l -
+z [8tj] - l - [5wz] - [4qx] z - [4qz] l - z -
+[30] j - [30h] - [9lm] - e y - e y - [ek] -
+y - [ejb] - e [ufx] - p - u p - u p -
+u [9lm] [z:u] [elm] - y - e y - e [ykn] - [ejb] -
+e - u [pkn] - [ulm] - p [ux:o] p - [ulm] - 9 -
+e y - e y - [ekn] - y - [ejb] - e - [ufx] -
+p - u p - u [plm] [ukn] - w - y o -
+y o - [ykn] - [woz:u] - [yjb] - q - t i - t
+0 - [rx] - [ul] - [rz] - [9yj] - [9y],
+[8tj] - l - [7rz] - [6ex] z - [6ez] l - z - [5wj] -
+[6el] - [8tz] - [9yx] z - [9yz] l - z - [0uj] - [8tl] -
+[7rz] - [6ex] z - [6ez] l, [6e] z - [6ej] -
+[9y] - [9y], [8tj] - l - [7rz] - [6ex]
+z - [6ez] l - z [8tj] - l - [6ez] - [5wx] z -
+[5wz] l - z [8tj] - l - [5wz] - [4qx] z - [4qz]
+l - z - [30j], [30] 2 - 6 9 - [qj] -
+[el] - [qyj] - [ej] - [qh] - [6h] - [0f] - [ef] - [tf] - u
+p - [uh] - t [29] - 6 9 - [qj] - [el] - [yj] -
+[ej] - [qh] - [6h] - [0f] - [ef] - [tf] - u - p [uh] -
+t 2 - 6 9 - q [egl] - [qyj] - [ej] - [qh] -
+[6h] - [0h] - [eh] - [th] - u [ph] - [uj] - t 5 -
+9 w - [rf] - [yf] - [wof] [yh] - [rj] - [4j] 8 q-
+e t i p-s 3-7 0-w r [0u] o-a [9y] -
+[9y], [8t] l - [7rz] - [6ex] z - [6ez]
+l - z - [5wj] - [6e] - [8t] [9y] - [9y],
+[0u] - [8t] - [7rj] - [6ex] - z [6ez] l, [6ek],
+[6ej] - [9y] - [9y], [8t] - [7rj] -
+[6ex] z - [6ez] l - z [8tj], [6e] [5w] -
+[5w] j - x - [8tz] - z - [5wl] - [4qz] j...
+[30] - [29] - [29], i - [pdl]
+z - [6e] - [6e], u - [ps] -
+[29] - [29], i - [pd] - [6ex]
+z - [6ez] l - z [uj] - [ps] - [29] -
+[29], i - [pdl] z - [6e] - [6e],
+u - [ps] - [5w] - [5w], o
+[adl] z - [4qx] z - [qipsz] l - [30z] - [uoaj] -
+[29] - [29], i - [pdl] z - [6e] -
+[6e], u - [psl] z - [29] - [29],
+i - [pd] j - [6ex] z - [6ez] l - z [uj] -
+[ps] - [29] - [29], i - [pdl]
+z - [6e] - [6e], u - [psl] z -
+[5w] - [5w], [wo] [adl] z - [4qx]
+z - [qipsz] l - [30z] - [0uoaj] - [:e'6]

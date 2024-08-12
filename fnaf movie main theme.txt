@@ -1,0 +1,67 @@
+Transpose by: 0
+[:e'6e] t u e t u e t u e
+t u e t u [:e'6e] [:e'6t] [:e'u] [:e'6e] [:e'6t]
+[:e'u] [:e'6e] [:e'6t] [:e'u] [:e'6e] [:e'6t] [:e'u] [:e'6e] [:e'6t] [:e'u]
+[6e] [:e'6t] [:w'%W] r Y W r Y W r
+Y W r Y W r Y [:w'%W] [:w'r] [:w'Y]
+[:w'%W] [:w'r] [:w'%Y] [:w'%W] [:w'%r] [:w'Y] [:w'%W] [:w'%r] [:w'%] [:w'%W] [:w'%r]
+[:w'%Y] [:w'%W] [:w'%r] [:9'4W] t-W i-t W t-t-i W
+t i W t i W t i [:9'4W] t
+[:9'i] [:9'4W] [:9't] [:9'i] [:9'4W] [:9't] [:9'i] [:9'4W] [:9'4t] [:9'i] [:9'4W]
+[:9't] [:9'i] [:9'4W] [:9'4t] [:w'%W] r Y W r Y
+W r Y W r Y W r Y [%W]
+r [:w'%Y] [:w'%W] r [:w'%Y] [:w'%W] r [:w'Y] [:w'%W] [:w'r] [:w'%Y]
+[:w'%W] [:w'%r] [:w'%Y] [:w'%W] [:w'%r] [:e'6e] t u e t
+u e t u e t u e t u [:e'6e]
+t [:e'6u] [:e'6e] [6t] [:e'6u] [:e'6e] t-6 [:e'u] [:e'6e] t-6-[:e'u]
+[:e'6e] t [:e'6] [:e'6e] t-[:e'6] [:e'u] [:e'6e] [:e't] u-3 [:e'6ep] [6tu]
+[:e'6u] [:e'6e] [6t] [:e'6eu] [:e'6e] [6t] [:e'u] [:e'6e] [:e't] [3u] [:e'6ep]
+t [6up] [:e'6ep] [:e'6t] [:e'6eup] [:e'6ep] [:e'6tp] [:e'6erp] [:e'6erp] [:e'36tp] [:e'6ep]
+[:e'6etup] - :e [ti] [:e'36etu] - :e [:e'i] [:e'6u] - [:e'6e] -
+[36] :e :e :e [:9'W4ti] q [:9'W] W [14q] q
+[:9'Wt] W [:9'4tiWO] q [:9'W] W [:9w'14q] :9 :9 :9
+[:9'W4ti] - :9 o-t [:9'W14ti] - :9 [:9'to] [:9'W4ti] - [:9'W4t] -
+[:9'14] - :9 :9 [:8'3ru] - [:8'3u] - [:8t'3r] 0
+[:8'u] u [:8'30rya] [0ry] [:8'3u] u [:t'30ry] [30y] [:8'30y] [:8'37]
+[:e'et] 6 :e 6 [10e] 8 1 8 [:t'Wr] 7 :t
+7 [2qW] 9 2 9 [2ry] 9 2 9 [:t'Wr] 7
+:t 7 [1et] 8 1 8 [:e'60e] 6 :e 6 [:e'et]
+[6e] [:e'e] 6 [180e] [80e] [10e] 8 [:t'Wr] 7-[Wr] [:t'Wr] 7
+[2qW] [9qW] [2qW] 9 [2r] [29y] [2ry] 9 [:t'Wr] [7r] [:t'Wr]
+7 [1et] 8 [1et] 8 [:e'60e] 6 [:e'60e] 6 [:e'etu]
+6 :e [6i] [:e'etu] 6 :e [6i] [:e'etu] 6 [:e'60e]
+6 :e 6 :e 6 [:9'W4ti] 4 [:9'4W] [4W] [:9'4q] [4q]
+[:9'W] 4 [:9'4tiWO] [4q] [:9'W] [:9'4W] [:9'q] [:9'4q] [:9'4q] 4
+[:9'W4ti] 4 :9 [4to] [:9'Wti] 4 :9 [4to] [:9'tiWO] [4s] [:9'ig]
+4 :9 4 :9 4 [:8'30ru] [:8'3] [:8'u] [3u] [:8'30] [30]
+[:8'u] [3u] [:8'30ry] [3a] [:8'3af] 3 :8 3 :8 3
+[:e'et] 6 :e 6 [10e] 8 1 8 [:t'Wr] 7 :t
+7 [2qW] 9 2 9 [2ry] [9y] 2 9 [:t'Wr] 7
+:t 7 [1et] 8 1 8 [:e'60er] - :e 6
+[:e'et] 6 [:e'e] 6 [10e] [80e] [10e] 8 [:t'Wr] 7 [:t'Wr]
+7 [2qW] [9qW] [2qW] 9 [2ry] [9r] [2ry] 9 [:t'Wr]
+7 [:t'Wr] 7 [1et] [8e] [1et] 8 [:e'e] [6e] [:e'60e]
+6 [:e'p] [6s] [:e'e]-t-[6u]-p-[:e's] 6 [:e'e]-t-[6u]-p-[:e's] 6
+[:e'e]-t-u-p-[:w'O] % :w % [:e'p] [6s] [:e'e]-t-[6u]-p-[:e's]
+6 [:e'e]-t-[6u]-p-[:e's] 6 [:e'e]-t-[6u]-p-[:w'O] % :w %
+[:9'i] [4O] [:9'W]-t-[4i]-O-[:9's] 4 [:9'W]-t-[:9'4i]-[1O]-[:8'3u] 3
+[:8'3W]-t-3-i-O [:8's] 3 [:89'W]-t-3-i-[1O]-[:9'i] [:9'4O] [:9'W]-t-4-i-O-
+[:9's] 4 [:9'W]-t-[4i]-[!O] [:w'O] % [:w'r]-Y-[%O]-a-[:w'aD] %
+[:w'r]-Y-[%O]-a-[:8'f] 3 [:8'u]-O-[3a]-D-[:8'f] 3 [:8'u]-O-[:t'a]-D-
+[:e'6upf] 6 :e [6isg] [:e'upf] 6 :e [6g] [:e'upf] 6 [:e'6etup]
+6 :e 6 :e 6 [:9'O4ig] 4 [:9'O] [4O] [:9'i]
+[4i] [:9'O] [4O] [:9'sgOH] [4i] [:9'O] [4O] [:9'i] [4i] [:9'i] [4i]
+[:9'Oisg] 4 :9 [4oh] [:9'ig] 4 :9 [4oh] [:9'Oisg] 4
+[:9'Otis] 4 :9 4 :9 4 [:8'uaf] 3 [:8'f] [3f] [:8'u]
+[3u] [:8'f] [3f] [:w'aDH] [:w'%] [:w'DH] [%a] [:w'DH] [:w'%a] [:w'DH] [:w'%a]
+[:w'%DHak] - [:w'D]-[%a] [:w'aDH]-%-[Hk]-[:w'aD] [:w'%DHak] [:w'%DHak] [:w'DHk]-[%a]-[Hk]......
+[:e'6e] t u e-u-t u e t u e
+t u e t u [:e'6e] [6t] [:e'u] [:e'6e] [:e'6t]
+[:e'u] [:e'6e] [:e'6t] [:e'6u] [:e'6e] [:e'6t] [:e'u] [:e'6e] [:e'6t] [:e'u]
+[6e] [:e'6t] [:w'%W] r [%Y] W r Y W r
+Y W r Y W r Y [:w'%W] [:w'%r] [:w'%Y]
+[:w'%W] [:w'r] [:w'%Y] [:w'%W] [:w'%r] [:w'Y] [:w'%W] [:w'%r] [:w'%] [:w'%W] [:w'%r]
+[:w'%Y] [:w'%WY] [:w'%r] [:9'4W] t i-t W t t-i W
+t i W t i W t i [:9'4W] t
+[:9'i] [:9'4W] [:9't] [:9'i] [:9'4W] [:9't] [:9'i] [:9'4W] [:9'4t] [:9'4i] [:9'4W]
+[:9't] [:9'i] [:9'4W] [:9't] [:w'%W] r Y [:et]

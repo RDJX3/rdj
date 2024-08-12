@@ -1,0 +1,108 @@
+Transpose by: 0
+[6p] - a - [5s] - d g 4...
+f [5d] s [6p] - a - [5s] - d
+p 4... s [5a] s [6p] -
+a - [5s] - d g 4...
+f [5d] s [6p] - a - [5s] - d
+p 3, O, u [6p]
+p p p p, p [4o] p p
+p p, p [5o] o o o o -
+o p 6 u 7 - 8 - 7 u
+[6p] p p p p, p [4o] p
+p p p, p [5o] o o o
+o - o p 6 u 7 - 8 u
+y t [9u] - y t u - y t
+[0y] u y t y - u t 6 u,
+7 - [8u] t 5 u, 8 u
+y t [9u] - y t u u y t
+[0u] u y t u - u s 6 p -
+[6f], j 0, x,
+[6O] p O p O p O p [4O] p
+O p O p O p [5o] o o o
+s s a o [6p] - [7p] - [8p] -
+[7p] - [6O] p O p O p O p
+[4O] p O p O p O p [5o] o
+o o a a p o [3a]....
+0 - 9 - 8 - 7 u [6p] p
+p p p, p [4o] p p p
+p, p [5o] o o o o -
+o p 6 u 7 - 8 - 7 u
+[6p] p p p p, p [4o] p
+p p p, p [5o] o o o
+o - o p 6 u 7 - 8 u
+y t [9u] - y t u - y t
+[0y] u y t y - u t 6 u,
+7 - [8u] t 5 u, 8 u
+y t [9u] - y t u u y t
+[0u] u y t u - u s 6 p -
+f, j 0, x,
+[6O] p O p O p O p [4O] p
+O p O p O p [5o] o o o
+s s a o [6p] - [7p] - [8p] -
+[7p] - [6O] p O p O p O p
+[4O] p O p O p O p [5o] o
+o o a a p o [6p] - 7 -
+8 - 7 - [6O] p O p O p
+O p [4O] p O p O p O p
+[5o] o o o s s a o [6p] -
+[7p] - [8p] - [7p] - [6O] p O p
+O p O p [4O] p O p O p
+O p [5o] o o o a a p o
+[3a].... 0 -
+9 - 8 - 7 - [6p] - a -
+[5s] - d g 4... f
+[5d] s [6p] - a - [5s] - d p
+4... s [5a] s [6p] -
+a - [5s] - d g 4...
+f [5d] s [6p] - a - [5s] - d
+p 3, O, u [6p]
+p p p p, p [4o] p p
+p p, p [5o] o o o o -
+o p 6 u 7 - 8 - 7 u
+[6p] p p p p, p [4o] p
+p p p, p [5o] o o o
+o - o p 6 u 7 - 8 u
+y t [9u] - y t u - y t
+[0y] u y t y - u t 6 u,
+7 - [8u] t 5 u, 8 u
+y t [9u] - y t u u y t
+[0u] u y t u - u s 6 p -
+f, j 0, x,
+u [6p] p p p p, p [4o]
+p p p p, p [5o] o o
+o o - o p 6 u 7 - 8 -
+7 u [6p] p p p p, p
+[4o] p p p p, p [5o] o
+o o o - o p 6 u 7 -
+8 u y t [9u] - y t u -
+y t [0y] u y t y - u t
+6 u, 7 - [8u] t 5 u,
+8 u y t [9u] - y t u u
+y t [0u] u y t u - u s
+6 p - f, j 0,
+x, [6O] p O p O p
+O p [4O] p O p O p O p
+[5o] o o o s s a o [6p] -
+[7p] - [8p] - [7p] - [6O] p O p
+O p O p [4O] p O p O p
+O p [5o] o o o a a p o
+[6p] - 7 - 8 - 7 - [6O] p
+O p O p O p [4O] p O p
+O p O p [5o] o o o s s
+a o [6p] - [7p] - [8p] - [7p] -
+[6O] p O p O p O p [4O] p
+O p O p O p [5o] o o o
+a a p o [3a]....
+[6O] p O p O p O p [4O] p
+O p O p O p [5o] o o o
+s s a o [6p] - [7p] - [8p] -
+[7p] - [6O] p O p O p O p
+[4O] p O p O p O p [5o] o
+o o a a p o [3a]....
+0 - 9 - 8 - 7 - 6......
+9 - [ed] - [yd] - e f [ig] - [ed] -
+[yg] - [ej] - [qgjz] - [tl] - [ij] - [th] - [pj] -
+t - i - t - 8 - [wh] - [th] - w
+j [uh] - [wg] - [tf] - [wg] - [6f] - [0d] -
+[eS] - [0f] - [Tj] - 0 - [eL] - 0 -
+[2z]

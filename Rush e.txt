@@ -1,0 +1,87 @@
+Transpose by: 0
+
+[uf] - u u u......
+[uf] - u u u, u - u
+u-u-u - u, u - u u - u -
+u-u - u - u u - u-u - u - u -
+u - u u u u u u u u u u u-u
+u-u u-u-u-u-u u-u-u u - 6...
+0 - 0, 3 - 3,
+0 - 0 - 3-$-%-6, 0 -
+0, 3 - 3, 0 - 0,
+6 - 6 [6u] - [0u] 6 [0uf] - [30uf] - [uf] -
+[0uf] - [0u] - [6uf] - 6-[6uf] - [0u] - [0uf] -
+[3u] - [3uf] - [0uf] - [0uf] - [6f] - [6uf] - [0f] -
+[0uf] - [30uf] - i - [0uf] - [(YD] - 6 - 6 -
+[8p] - p-p - [0s] - 0 - 6 - 6 - [7d] -
+d - [0d] - [0d] - [3d] - s - [0aH] - d -
+[6s] - [6s] - [0s] - s - [3s] - a - [0p] - s -
+[7ak] - [7a] - [*ag] - [ak] - [9I], [(ak],
+[0O] - O - O, 3,
+$-%-6 - [6u] % [0u] - [60u] - [30uf] - [0u] - [0uf] -
+[0uf] - [$0u] - [uf] - [0uf] - [0uf] - [%u] - [%u] - 0 -
+[uf] - [6uf] - i [0uf] - [YDJ] - [7uf], [0pj] s -
+[8f] - f [0j] - f-0 [el] - 0 - 0
+[qjz] - l [9gk] z - [H0l] k [8j] - l [9k]
+j-k [7H] - [Hjk] [8j] - f - [6s] [pj] - [3g] f -
+[$d] s [%ak] - p [3O] - [ak] [6p] - p,
+3, $-%-[6u] [uf] [0uf] [uf] [30uf]
+[uf] [30uf] [0uf] [6u] - [6u] [0u] [6uf] [30uf] [uf] [0uf]
+[uf] [6uf] [6uf] [0uf] [uf] [3uf] i [0uf] [YD] [6uf] -
+[8pj] - p-[0s] - 6 - 6 [7d] d [0d] d [3d]
+s [0aH] d [6s] s [0s] s [3s] a [0p] s
+[7a] a [*a] a [9I] - [(a] - [0O] - H,
+3, $-%-[6uf] u 0 [uf] [3uf] u [0uf]
+u [$0uf] [0u] [0uf] u [%u] u [0u] u [6uf] i [0uf]
+[YD] [7uf] - [0p] s [8f] - f-[0j] - [el] - 0 -
+[qjz] l [9gjk] z [0l] k [8j] l [9k] [jl] [7H] k
+[8j] f [6s] [pj] [3g] f [$d] s [%a] p [3O] [ak]
+[6p] - p - 6, 7-[*g]-[9d] - q
+S [6d] - [qf] - [9g] - [qfg] - [6d] - [9g] -
+[8f] - [0f] d [6s] - [0ad] - [8f] - [0a] f
+6 - [8sl] - [9a] - 0 P [3a] - [0s] -
+[$d] - [0s] - [%ak] - [0ad] % [6s] - [6p] -
+[8sl] - [0f] - [8efj] - [0f] - [8s] - [6p] -
+[9d] - q S [6d] - [qf] - [9g] - [qf] -
+[6dgb] - [9g] - [8f] - 0 d [6s] - [0ad] - [8f] -
+[0H] f [6fj] - 8 - 9 - [7d] - [8f] -
+[9g] - [0f] - [Qsf] g [Wd] - [0aH] - [ep] -
+e-p - [0f] - [6j] - 6 - 3,
+$-%-[6u] u [60u] [6u] [30u] u [0u] u [6u] [6u] [0u] u
+[3u] u [0u] u [6u] u [0u] [0u] [30u] i [0u] [YD] [6u] -
+[8pj] - [0sjl] - 6 - [7d] d [0d] d [3d] s [0aH]
+d [6s] [sd] [0s] s [3sl] a [0p] s [7a] a [*a] a
+[9I] - [(ah] - [0O] - [OH] - 3, $-%-
+[6u] u [0u] [6u] [30u] u [0u] u [$u] u [0u] u [%u]
+[%u] [0u] [%u] [6u] i [0uf] [YD] [7uf] - [0pj] s [8f] -
+[0fj] - [el] - 0 - [qz] l [9k] z [0l] k [8j]
+l [9jk] j [7H] k [8j] [fk] [6s] [pj] [3g] f [$d] s
+[%ak] [pj] [3O] [ak] [6p], k k,
+6... [80] - 0-8 8 -
+3 - 3, [80] - 0 8-3-$-%-6 -
+% - [80], 8 3, [80] -
+0 - 6, [80e], 3 - 3 -
+[80e] - 3-[$%]-6, [80e], 3 - 3
+[80e], 6, [60et] - t 3 - [0et] -
+6 - [etu] - 3 - [etu] - 6 - [tup] -
+p-3 - [upsf] - 6 - [psf] - 3 - [sfj] - [6f]
+f [0f] f [3f] f [30f] f [6f] f [0f] f [3f] f [30f] f
+[6f] f [0f] f [3f] g [0f] D [6f] - [8fgj] - [0l] - 6 -
+[7z:u] z [H0z] [z:u] [3z:u] l [H0k] [z:u] [6lm] l [H0l] l [3lm] k [30j]
+l [7k] k [*k] k [9G] [kl]-[(hk] - [0H] - 0 3 -
+[$%]-[6f] f [0f] f [3f] f [0f] f [$f] f [0f] f [%f] f
+[0f] f [6f] g [0f] D [7f] - [0pj]-f-s [8f] - [0j] - [el] -
+0 - [qjz:u] l [9jk] z [0l] k [8j] l [9jk] j [H7k] k [8j]
+f [6s] p [3g] f [$d] s [%ak] p [3O] [ak] [6p],
+6 - %-6-[^i] i [qi] i [4i] i [qi] i [^i] i
+[qi] i [4i] i [qi] i [^i] i [qi] i [4i] I [qi] u [^i] -
+[*P] - [qS] - ^ - [8D] D [qD] D [4D] S [qs] D [^S]
+S [qS] S [4S] s [qgPJ] S [8sl] [qs] [9s] s [(o] - [0s] -
+[qpg] - p - [4V] - 5-6-[^i] i [qig] i [^4i] i
+[qi] i [5i] i [qi] i [6i] i [qi] i [^i] I [qi] u [8i] -
+[qP] S [*g] - [qgJB] - [EL:y] - q - [QJZB] [L:y] [(hl] Z [qjL:y]
+l [*J] [L:y] [(l] [JB] [8j] l [*J] g [^S] [PJ] [QD] S s [QD]
+[qS] s P S [Ys] P p s [TP] i T E [QZB] [L:y] [(l]
+Z [qL:y] l [*J] [L:y] [(hl] [JB] [8jl] l [*J] g [^S] P [4G] g
+[5DZ] [SL] [6s] P [4p] s [^PJ], [^J] - J J,
+J - J

@@ -1,0 +1,35 @@
+Transpose by: -8
+v n b j c x k v x n k l
+v x k j v n b j c x k b
+x n k m v x k j [18v] n [6b] j
+[6c] x [30k] v [30x] n [30k] l [30v] x [5wk] j
+[29v] n [29b] j [29c] x [30k] b [30x] n [30k] m
+[30v] x [30b] v [18v] n [:e'6b] j [6c] x [30k] v
+[30x] n [30k] l [30v] x [5wk] j [29v] n [29b] j
+[29c] x [30k] b [30x] n [29k] m [18v] x b v
+[80wtv] [0wn] [60etb] j [0etc] x [0wrk] v [0wrx] n [0wrk] l
+[0wrv] x [wryk] j [90ev] n [90eyb] j [9eryc] x [0wrk] b
+[0wrx] n [0wrk] m [0wrv] x [0wrb] v [80wtv] n [etb] j
+[0etc] x-t-[0wrk] v [0wrx] n [0wrk] l [0wrv] x [wryk] j
+[90eryv] n [9eyb] j [90eyc] x [0wruk] b [0wrx] n -
+[9eyk] - m - [8wtv] - x - b - v - v - n -
+b - j - c - x - k - v - x - n -
+k - l - v - x - k - j - v - n -
+b - j - c - x - k - b - x - n -
+k - m - v - x - k - j - [18v] - n -
+[:e'6b] - j - [6c] - x - [30k] - v - [30x] - n -
+[30k] - l - [30v] - x - [5wk] - j - [29v] - n -
+[29b] - j - [29c] - x - [30k] - b - [30x] - n -
+[30k] - m - [30v] - x - [30b] - v - [18v] - n -
+[:e'6b] - j - [6c] - x - [30k] - v - [30x] - n -
+[30k] - l - [30v] - x - [5wk] - j - [29v] - n -
+[29b] - j - [29c] - x - [30k] - b - [30x] - [30n] -
+[29k] - m - [18v] - x - b - v - [80wtv] - n -
+[6etb] - j - [0etc] - x - [0wrk] - v - [0wrux] - n -
+[0wrk] - l - [0wrv] - x - [wryk] - j - [0eyv] - n -
+[9eyb] - j - [90eyc] - x - [0wruk] - b - [0wrx] - n -
+[0wrk] - m - [0wrv] - x - [0wrb] - v - [80wtv] - n -
+[6etb] - j - [0etc] - x - [0wrk] - v - [0wrx] - n -
+[0wrk] - l - [0wrv] - x - [wryk] - j - [90eyv] - n -
+[90eyb] - j - [90eyc] - x - [0wruk] - b - [0wrux] - n -
+[9eyk] - m - [80wtv] - x - b - v

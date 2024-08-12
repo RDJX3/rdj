@@ -1,0 +1,82 @@
+Transpose by: 0
+[:8'3]... [:9'4]...
+[:t'7]... :t :t - :t :t :t -
+[:1e], [sfj], :8, [sfjl],
+:e, [sfj], [:8'3], [sfj],
+:9, [sgjl], :4, [agj],
+[:6'2], [agj], :8, [afH] -
+[3$]-%-[:e'6], [60etusfj], [:8'3], [etusfj],
+:e, [etusfjl], [:8'3], [etusfjl],
+[:9'4], [etisgj], [:4'1], [eyiagj],
+[:6'2], [etisgj], [:8'3], [ryuafH],
+[:e'6sfj], [0etsf], [:8'p], [0et],
+:e - f - [0etj] - k - [:8'lm] - j - [0etsf] -
+f - [:9'g], [8qetj], [:4'f],
+[qer], [:6'2d], [qetD], [:8'f],
+[W0tsf] - f - [:e'j], [H0etsj] - j - [:8'p],
+[0et], :e - f - [0etj] - k - [:8'lm] -
+j - [0etf] - f - [:9'g], [qetj],
+[:4'f], [qerd] - s - [:6'2d], [qerD],
+f... ! [2et]...
+[:8'3wry]... [4etu], [:9'4] -
+:0 [Wy] [W3y] - [W3yi] - [:8'W30y] - [:e'ups] 3 6 8-[tupf]
+8-7 8-[O6yad] - [@s] [tupf]-2 1 - 6 [Gj]-[7lxm]
+[:t'j]-[8kZ] [1x] ( [9j]-[lx] [8j]-[9kZ] [0lx]-8 6 - 0-[efl]
+0 r t-[sjl] e-W e-[(dk] 0 [8fl] [6sjl] - 7-8
+* [O9yudf] 2 [(Oyudf] 0-[Oyudf] [O8yud]-% [6tpf] - 3 @-2-1-2
+1 :q :w-:e [pj]-6 f-[:8'D] d [3sl] d-:e s-6
+[:89'3p] - 3 [:w'o] - :e [pj]-6 f-D d-[3s] d-[:e'6]
+[dh]-6 [1sfhl] s-[8f] [fh!B]-s-f-2 [Ipf]-9 f-[:e'6D] d-[6s]
+p-[2d] s-9 [:e'pIDG] - [6o]-[2OH]-p-P [:t'7pa] Y-7 [Ypaj]-:0
+Y [$YDpaj] [7a]-[O30sf] [fH]-d s d [:8'O3sfl] - :e [pj]-6
+f-D d-[3sl] d-:e s-6 [:8'p] - 3 [:w'o] - :e
+p-6 f [:8'D] d [3s] d-:e h-6 [:8'f] - 3-[:q'd] -
+2 [Ip]-9 f [:e'D] d-[6s] [ad]-2 [ps]-9 [:e'pIG] - 6-
+[29p] - [:t'7rpaYD] Y-7 [Ypaj]-:0 Y [:t'YD7rpaj] a [:8'O3f] f-d s-
+[Oif] [:8'3] - 3-:6 2-[:9'4] - [:e'qe] y-2 [W0u]-3 -
+[2y] - [:t'0tWO] - [:w'yd] [8etu]-:e :9-1 y [3etu] t-6 [Equf]-
+5 [E3yo] 2 [Eup]-1 [upsfj]-:e [ipfj]-2 - :9 - [ipfj] [ipfj]-
+2 [Ouf] 3 [Oudf]-:w [usfOH]-:t [pj]-3 - [opsfj] [opsfj] - [opsfj]-
+! [opsfj]-3 [Suopfj]-5 [:e'j]-[6x]-v-b-[5L:y] [:e'jb]-3 - 2 -
+3 - [4ipfgj] - [29ipfgj] - [O3uf] d-:w [Ousf]-:t [Oudf]-3 [psfj]-
+:e - [1f] - [3psfj] :e-[6d] [psfj]-5 [P2fj]-2 [Pfh] 1 d-
+D-[!osf] [ips]-2 [ipfgj] - [:e'6ipfj] [2d]-1 [Oaf]-[:t'7] [:8'Odh]-3
+[:8'Oaf]-:8 d-[:t'Ousf] - :r [OPyd] - [:t'Ypa] - :t [Oydf] -
+:8 g-H-[3kz]-c-V-n-:u-[:wo] - [:e'6] [psjl] - [:e'f]-D d-s
+[3d] [:e'6] s [:e'6] [:8'3p] - 3-[:w'%o] - [:e'6] [pj] - [:e'f]-[:8'3D]
+d s [3d]-[:e'6] h-:e [:8'3f] - 3-[:7'@d] - [29] [pj] -
+[2f]-[:e'6D] d-s [6pj]-[29d] s-2 [:e'6p] - 6 [29] - [:t'YD7rpaj]
+Y-[:t'7] [@(Ypj] - @ [$QYpaj] - [O30yadf] - [z:u]-Z-[:8'lz] [3z:u] [:w'l]-:w
+j-[:e'h] [pj]-6 u-[:8'Y] [yd]-[3t] [yd]-[:e'6] t-6 [:8'3e] -
+3-[:w'w] - :e [pj] 6 u-Y [yd]-[3t] [yd]-:e o-6
+[:8'u] - 3 [@y] - 2 [Gpsj] 9 f-[:e'6D] d-[6s] d-2
+s-[9pj] [:e'sj] - 6 [2dJ] - [:t'D7jk] - 7 I-[:0'$YDpaj] $-[:t'Ypa]
+[:8'O3ydf] - [Ouf]-d s-[Oudf] [:8'3f] - [:8'3] :6 - :9 [yd] [:e'6qeu]
+[:6'2y] - [WO30uf]-3 [WO0yup]-2 [0tWO]-:t - [:w'yd] [wtu]-:e - 1
+[yd] [3wtu] [:e't] [:e'6] [Ewu]-5 [:q'Euo]-2 [Eup]-1 - [!s] [ipf]-2,
+[ipf] - [2ipfg] - [O3uf] d-:8 [Ousf]-:t 3 [3tupf] - [topsf] -
+[!opsf] - [3opsfjl] [opsfl]-:e [Suopfj]-6 :e-[5pasj]-[dfg] [3hjklzxcvb]-[!n:uo] -
+2 l-:9 [yd]-[:e'6qe] [yd]-1 [W0uf]-:t [W30yd] - [W0t]-[:t'7] -
+[3yd] [wtu]-:e - 1 - [3wtu] [:e'yd]-6 [Ewu]-5 [Euof]-2 [Eup]
+1 [upsfj]-! [ipfgj]-2 l-:9 - [:e'6ipfgj] - [29ipfg] - [O3uf] d
+:w [Ousf]-:t - [3pj] - [:r'd^PHJ] - [dg^PHJ] - [:t'ID7ajk] - [:t'7ak] [H3flzx] -
+[3r]-[2t]-T [yd]-[1Y]-u-i-[:t'7I]-o-O-:e [pj] - f-[:8'D] D [DZ]
+:e [pj] - f-[:8'DZ] D [DZ] :e [pj] - f [:8'DZ] D
+[DZ] :e [DZ] - D - [:e'DZ]-d - D :e - [:e'DZ] -
+[:e'DZ] - [:e'D] - :w-d [:q'SL] s [:9'a] [:8'PL] p-O [op]-I i-u-
+Y-T-t-r-[*T]-E w [8(]-[8^*(] 5-[:w'^]......
+:9......
+[:e'6], [0et], [:8'3],
+[0et], :0 :e, [30et],
+[:8'3], [30et], [:e'p],
+[80u], [:8'3e], [80],
+$-[:w'%] :e - [0u] - [80p] - a - [3s] -
+p - [80u] - u - [Yei],
+[Y8qtp], [0rtu], [80u],
+[4qeyd], [8qetY], [W30yu],
+[90], [:e'6etupf], [80etu],
+[380e], [80], :w - [etu] -
+[80tup] - [0yuaf] - [3us] - [0tups] - [380etu] - [0etu] -
+[:9'Y4ei], [Y8qtp], [:4'1wtuo], [80],
+[48qey], [etY], [:8'W3yu],
+[390W]... [:e'380e]

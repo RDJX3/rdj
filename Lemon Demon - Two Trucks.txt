@@ -1,0 +1,83 @@
+Transpose by: 0
+6 6, 8 8 9 - q - e - y -
+8-e-8, 0 0 q - e - t - i -
+[6ei] 6, 8 8 9 - q - e - y -
+8 8, 0 0 q - e - t - i -
+[6e] [6e], 8 8 9 - q - e - y -
+8 8, 0 0 q - e - t - i -
+6 6, 8 8 9 - q - e - y -
+8 8, 0 0 q......
+u - [4qu], y t - [6t], 8 -
+u - [9u], [%y] t - [6t] - 7 - 8 -
+u - [8u] - y - [%u] - u 6 u 6 t [6u] 2 -
+[3t] - [4y] - t y 8 t o 5 u 8 9 8 9 -
+[0u] - [qu], [%y] t - [6t] - u [7r] - 8 -
+u - [9u], [%y] t - [6t] - 7 - 8 -
+u - [8u] - y - % - u 6 u 6 t [6u] 2 -
+[3t] - [4y] - t y 8 t o 5 u-t-8 9 8 9 -
+[0u] - [680eu] i - i-u, [269q]...
+[180wu] - y - t, [48qe], t -
+[680eu] y u - u - t - [269q]...
+[180wtu] - u - t - [48qe] - u - y t t -
+[680e]... [269qo] t - t t -
+t [180wy] y - y - y - [48qe] - u - y -
+t - [680eu]... [269qe]...
+[180wu], y t - [48qet], u -
+[4u], y t - [6t], 8 - [tu] -
+[9u], [%y] t - [6t] - 7 - 8 - u -
+[8u] - y - % - u 6 u 6 t [6e] 2 - [3t] -
+[4y] - t y 8 t o 5 u 8 9 8 9 - [0u] -
+[qu] u - [%y] t - [6t] - 7 - 8 - u -
+[9u], [%y] t - [6t] - 7 - 8 - u -
+[8u] - y - % - u 6 u 6 t [6u] 2 - [3t] -
+[4y] - t y 8 t o 5 u 8 9 8 9 - [0u] -
+[680eu] - i - u, [269qe], u -
+[10wtu] - y - t, [48qe], t -
+[680eu] - u u, [269qt], t -
+[10wu] - u u - u - [48qei] - u - u - i -
+[680eu], u [269qu], t -
+[180wu] - u - u - u - [48qeu] - u - y - t -
+[1680eu]... [269qe], u -
+[1580wtu], o, [48eti], t -
+[68t], u - [6e] - [9u] - u [9u] u u t
+[8u] - 8 u, [qu] - u [qu] u u -
+u-6-u - u - [6u] - [9u] - u [9u] u u -
+[8u] - 8 u, q - u [qu] u u -
+[6u], s - [6u] - 9 - a [9s] a o u -
+8 - a [8s] a o u o-[qa] s a [qo] u - o
+p [6a] - o - u-a [6o] - 9 - y [9u] y -
+t - 8 - t 8 u - o - [qs] - f q i
+u u - [qu], [%y] t - [6t] - [7r] -
+8 - u - [9u], [%y] t - [6t] - 7 -
+8 - u - [8u] - y - % - u 6 u 6 t
+6 2 - [3t] - [4y] - t y 8 t o [5t] u 8
+9 8 9 - [0u] - [qu], [%y] t - [6t] -
+7 - 8 - u - [9u], [%y] t - [6t] -
+7 - 8 - u - [8u] - y - % - u 6 u
+6 t 6 2 - [3t] - [4u] - u - [8u] - u 5
+u 8 9 8 9 - [0u] - [680eu] i - u,
+[269q], u - [180wtu] y t - u,
+[48qe]... [680eu] - u - u - t -
+[269q]... [10wtu] - u - o -
+[48qe] - u - y t t - [680e], o -
+[269qt] - t - t - t - [10wy] y - y - y -
+[48qey] - u - y - t - [680eo] - y - u,
+[269qe], u - [180wtu] - u - y - t -
+[48qet], u - [4u], [%y] t -
+[6t] - 7 - 8 - u - [9u], [%y] t -
+[6t] - [7r] - 8 - u-8 [8u] - y - % -
+u 6 u 6 t 6 2 - [3t] - [4y] - t y 8
+t o 5 u 8 9 8 9 - [0u] - [qu],
+[%y] t - [6t] - 7 - 8 - u - [9u],
+[%y] t - [6t] - 7 - 8 - u - [8u] - y -
+% - u 6 u 6 t 6 2 - [3t] - [4y] - t
+y 8 t o 5 u 8 9 [8o] 9 - [0u] - [680eo] -
+u - u, [269q] - e - e - e - [180wo] -
+u - u, [48qeip] - e - e - e - [680eo] -
+u - u o - [269q] - e - e - e - [180w] -
+e - e - e - [48qe] - e - e - e - [680eo] -
+u - u, [269q] - e - e - e - [180wo] -
+u - u, [48qeip] - e - e - e - [680eo] -
+u - u, [269qe] - e - e - e - [180w] -
+e - e - e - [48qe] - e - e - e......
+e-[8q]-e - e e

@@ -1,0 +1,36 @@
+Transpose by: -2
+s d -
+s f - [48qt], d - s
+f [269], d d - s f
+[:e'36], d - f d - [158],
+s d - s f [48qt],
+d - s f [269], p d -
+f d [:e'36] s p s d - s-p
+d - [158] - p - p d d d - d
+[4d] - 8 p [qd] d - [8d] d 2
+s 6 - [9d] d [6d] d - :e -
+[30d] s [6d] s [3s] d [1f] - 5 -
+[8f] - [5f] - [4f] - 8 s [qs] -
+h-8 f 2 - 6 - [9f] d
+[6f] d - [:e'f] f [3f] - [6f] - [3f] -
+[1d] - 5 - [8s] - [5pj] - 4
+[8d] [qd] [8d]-d-[4d] [8s]-s-q 8 2 6
+9 [6d] d-[2d] [6f]-f-q 6 :e [3f] [6d]
+3 :e [3s] [6s] 3 1 [5f] [8d] 5
+1 [5s] [8ts] 5 4 [8d] [qf] 8 4
+[8s] [qs] 8 2 [6d] [9d] 6 [2d]-s-6-
+s-q 6 [:e'd]-d-[3d]-d-[6d] [3d]-d-[:e'd]-s-[3s] s-
+6 [3f] 1 5 8 [5d] [1d] 5 [8d]
+5 - [48qtd] f d s p - g -
+[269f], p - g - [:e'36f]....
+s [158od], s d - s -
+[48qtd] f d s p - g - [269f],
+p - g - [:e'36f] d - d,
+s - [158a] - a p a s - d -
+[48qtd] [tf] d - s p - g - [269ef],
+p - g - [:e'36f]....
+s [158d], s d - s -
+[48qtd] f - d s p - g - [269ef],
+p - g - [:e'36f] d - d,
+s [158ya] - a - p a s,
+[158a], p o, u [ip]

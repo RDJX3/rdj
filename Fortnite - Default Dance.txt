@@ -1,0 +1,8 @@
+Transpose by: +1
+[3f], 3 f h
+[3j] j - 3 h, [3f],
+3 f h [3j] j - [3h] - f - d f -
+3 - j [3h] f d [3f] - 3...
+[3f], 3 f h [3j] j - 3 h,
+[3f], 3 f h [3j] j - [3h] - f -
+d f - 3 - j [3h] f d [3uf] - [3u]

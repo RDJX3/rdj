@@ -1,0 +1,80 @@
+Transpose by: -5
+l [jl] z j k l j x z l
+k j [gh] l j z j k l j
+x z l k j [gh] j l j z
+j k l j x z l k j h
+l j z j k l j x z l
+k j [gh] j [sl] [pj] [dz] [pj] [ak] [sl]
+[pj] [fjx] [dz] [sl] [ak] [pj] [oh] [sl] [pj] [dz]
+[pj] [ak] [sl] [pj] [fx] [dz] [sl] [ak] [pj] [oh]
+[pj] [sl] [pj] [dz] [pj] [ak] [sl] [pj] [fx] [dz]
+[sl] [ak] [pj] [oh] [sl] [pj] [dz] [pj] [ak] [sl]
+[pj] [fx] [dz] [sl] [ak] [pj] [oh] [pj] [6l] [%j]
+[6z] [%j] [8k] [6l] [%j] 8-[9x] [8z] [6l] [%k] [6j]
+[8h] [6l] [%j] [6z] [%j] [8k] [%l] [6j] [%x] [5z]
+[3l] [2k] [3j] h [5j] [6l] [%j] [6z] [%j] [8k]
+[6l] [%j] 8-[9x] [8z] [6l] [%k] [6j] [8h] [6l] [%j]
+[6z] [%j] [8k] [%l] [6j] [%x] [5z] [3l] [2k] [3j]
+[:9'h] [5j] [6sl] [%j] [6dz] [%j] [8ak] [6l] [%j] [8t]-[9x]
+[8dz] [6l] [%ak] [6j] [8oh] [6sj] [%pj] [6d] [%pj] [8k]
+[%sl] [6j] [%fx] [5z] [3sl] [2k] [3pj] h [5j] [6sl]
+[%j] [6dz] [%j] [8ak] [6l] [%j] 8-[9x] [8dz] [6l] [%ak]
+[6j] [8oh] [6sj] [%pj] [6d] [%pj] [8k] [%sl] [6j] [%fx]
+[5z] [3sfl] [2k] [3pj] h [5j] [6sl] [%j] [6dz] [%j]
+[8ak] [6l] [%j] [8t]-[9x] [8dz] [6l] [%ak] [6j] [8oh] [4s]
+[3pj] [4d] [3pj] [4k] [4sl] [3j] $-[5fx] [4z]-j [4sl] [3k]
+[4pj] [4h] [3j] [2sl] [!j] [2dz] [!j] [2ak] [2l] [!j]
+[2x] [2dz] [!l] [3ak] [2j] [!oh] [3s] [@pj] [3d] [@pj]
+[5k] [30sl] [@j] [30fx] [@z] [2sl] [@(k] [30pj] [5h] [%j]
+[6sl] [%j] [6dz] [%j] [8ak] [6l] [%j] 8-[9x] [8dz] [6l]
+[%ak] [6j] [8oh] [4s] [3pj] [4d] [3pj] [4k] [4sl] [3j]
+$-[5fx] [4z] [4sl] [3k] [4pj] [4h] [3j] [2sl] [!j] [2dz]
+[!j] [2ak] [2l] [!j] [2x] [2dz] [!l] [30ak] [29j] [!*oh]
+[30s] [@pj] [30d] [@pj] [4k] [30sl] [@(jl] [30fx] [@jz] [2sl]
+[@(k] [30pj] [:q'5h] [%j] [16sfjl] [:e'16sfjl] - [16sfjl] [68sfjl] -
+[:t'7adfhk] - [16sfjl] [168sfjl] [168sfjl] [16sfjl] - [:q'5sfjl] [:q'5adhk] -
+[:e'26sfjl] [26sfjl] - [1268sfjl] [68sfjl] - [:t'7adfhk] - [1268sfjl] [168sfjl]
+[46sfjl] [6sfjl] [5dhkz], [5J] [4h] [5l] [4hl]
+[^j] [4J] [5h] [5z] [4l] [5J] [4j] [1h] [2g] [4h]
+[5J] [4h] [5l] [4h] [^j] [4J] [5h] [5z] [4l] [5J]
+[4j] [1h] [2g] [4h] [:e'26sfjl] [6sfjl] - [:e'6sfjl] [:e'6sfjl] -
+[:t'7adfhk] - [126sfjl] [1268sfjl] [368sfjl] [46sfjl] - [:q'5dhkz] [:q'5dhkz] -
+[:e'16sfjl] [:e'16sfjl] - [:e'16sfjl] [46sfjl] - [:q'5adhk] - [:e'26sfjl] [16sfjl]
+[36sfjl] [6sfjl] [:q'5adhk], [5J] [4h] [5l] [4h]
+[^j] [4J] [5h] [5z] [4l] [5J] [4j] [1h] [2g] [4h]
+[5J] [4h] [5l] [4h] [^j] [4J] [5h] [5z] [4l] [5J]
+[4j] [1h] [2g] [4qh] [29ipdg] [29ipdg] - [29ipdg] [29ipdg] -
+[18upsf] - [29ipdg] [29ipdg] [29ipdg] [29ipdg] - [30uosfh] [30uosfh] -
+[29ipdg] [29ipdg] - [29ipdg] [29ipdg] - [18upsf] - [29ipdg] [29ipdg]
+[29ipdg] [29ipdg] [350upsf], l j z j
+k l j x z l k j h l
+j z j k l j x z l k
+j h j [sl] [pj] [dz] [pj] [ak] [sl] [pj]
+[fx] [dz] [sl] [ak] [pj] [oh] [sl] [pj] [dz] [pj]
+[ak] [sl] [pj] [fx] [dz] [sl] [ak] [pj] [oh] [pj]
+[sl] [pj] [dz] [pj] [ak] [sl] [pj] [fx] [dz] [sl]
+[ak] [pj] [oh] [sl] [pj] [dz] [pj] [ak] [sl] [pj]
+[fjx] [djz] [sfl] [ak] [pj] [oh] [pj] [6l] [%j] [6z]
+[%j] [8k] [6l] [%j] 8-[9x] [8z] [6l] [%k] [6j] [8h]
+[6l] [%j] [6z] [%j] [8k] [%l] [6j] [%x] [5z] [3l]
+[2k] [3j] [:9'h] [:q'5j] [16sfjl] [168sfjl] - [:e'6sfjl] [68sfjl] -
+[:t'7adfhk] - [:e'16sfjl] [168sfjl] [16sfjl] [68sfjl] - [:q'5sfjl] [:q'5adfhk] -
+[:e'126sfjl] [6sfjl] - [1268sfjl] [6sfjl] - [:q'5adhk] - [1268sfjl] [3sfjl]
+[4sfjl] [4qsfjl] [5dhkz], [5PJ] [4h] [5sl] [4sh]
+[^pj] [4J] [5h] [5z] [4sl] [5J] [4pj] [1h] [2ig] [4h]
+[5gPJ] [4h] [5sl] [4sh] [^pj] [4J] [5h] [5z] [4sl] [5J]
+[4pj] [1h] [2ig] [4qh] [1268sfjl] [168sfjl] - [:e'16sfjl] [68sfjl] -
+[:t'7adfhk] - [26sfjl] [1268sfjl] [1268sfjl] [6sfjl] - [5dhkz] [5dhkz] -
+[26sfjl] [26sfjl] - [2468sfjl] [360sfjl] - [:q'5adhk] - [:e'6sfjl] [2sfjl]
+[36sfjl] [3sfjl] [:q'5adhk], [5PJ] [4sh] [5sl] [4sh]
+[^pj] [4J] [5h] [5z] [4sl] [5J] [4pj] [1h] [2ig] [4h]
+[5gPJ] [4h] [5sl] [4sh] [^pj] [4J] [5h] [5z] [4sl] [5J]
+[4pj] [1h] [29ig] [4qh] [29ipdg] [29ipdg] - [29ipdg] [29ipdg] -
+[18upf] - [29ipdg] [29ipdg] [29ipdg] [29ipdg] - [30uosfh] [30uosfh] -
+[29ipdg] [29ipdg] - [29ipdg] [29ipdg] - [18upsf] - [29ipdg] [29ipdg]
+[29ipdg] [29ipd] [350wuosf], [us] p d p
+a s p f d s a p o s
+p d p a s p f d s a
+p o p l j z j k l [jl]
+x z l k j [gh] l j z j
+k l [jl] x z l k j [gh] j

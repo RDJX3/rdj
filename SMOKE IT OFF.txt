@@ -1,0 +1,59 @@
+Transpose by: -4
+[48q],
+[370], 8... [6e]
+[5w] [4q] 4 [4q]-o o o [370i] u [qi] - [0u] -
+[30]-o [0o] [30o] [3i] [30] [3i]-0 [30] 3 - j j
+[4qj] [370] f-j-[3g] [30wf] - g-[3h] [30h] [30h] g
+[:e'6f] [:q'5g] f - [4hj] j-4 [4qj] [3g] f [3g]
+[370f] - f-g-[30h] h [whv] [3g] [370f] [6eg] [5wf] 5 -
+[:9'4j] j [4qj] [370g] f [3g] [wfx] 5-[fg] [30gh] - [0fh]
+[0ufh] [30g] f [6eg] [5wf] 5 h-[4j] j [4qj] [370g]
+f [3g] [wf] [5f] [3h] [3h] [30h] [5g] [3wf] [57g]
+[6efz] [5wfl] [:9'4j] j [4qfj] [8g] [:8'3f] [3g] [370f] 5-f
+[3gh] [3h] [370h] [5g] [:8'3f] [:e'6g] [:q'5f] - [:9'4hjv] - [fj]
+[4qfj] g [:8'3f] [3g] [370f] 5 g-[3h] [3fh] [370fh] [5wg]
+[3f] [:e'6g] [:q'5f] - h-[:9'4j] [fj] [4qfj] [4g] - [:8'3f] [3g]
+[370f] 5-f [:8'3gh] [:8'3fh] [370fh] [5g] [:8'3f] [:e'6g] [:q'5f] -
+h-[:9'4j] [fj] [qfj] g [:8'3f] [3g] - [370f] 5-f [3fh] [3fh]
+[30fh] [5g] [:8'3f] g [:e'6fz] [:q'5fl] [:9'4j] j [qj] g -
+[30f] g - [wf] 7-f [30gh] - [(fh] [0ufhv] [wg] [30f] [6eg]
+[5wf] [5w]-f-[4qhj] [fj] [qifj] [4qg] [370f] [0g] - [0uf] w-f
+[30h] [0fh] [0uafhv] [30g] - [6ef] g [5wf] 5 f-[4qhj] [fj]
+[qfj] [4qg] - [370f] - [30g] [0ruf] w-f-g-[30h] [0fh] [0rufh] [wg]
+[30f] [6eg] [5wf] [5a]-f-[4qhj] [qfj] [qifj] [4qg] [370f] [0qg]
+[0uf] w-f-g-[30h] [3fh] [30fh] g [6ef] [6gh] [5wf] 5
+4 [fh] [qfh] f - [:8'3] f-h [370fh] [5f] [3fh] [3f]
+[370fh] [5f] [3fh] [:e'6f] [5fh] f [4fh] f [4qfhv] f
+[3fh] [3f] [30] [fh] [5f] [35fh] [3f] [370fh] [5f] [3fh] [:e'6f]
+[:q'5fh] :q [:9'4fh] f [4qfh] [4f] 3 [3h] [370h] f
+3 [fh] [30fh] [5f] 3-[fh] f [:e'6fh] [:q'5f] 4 [fh]-
+q [4fh] [4f] 3 h [30h] [5f] 3 [3f] [30f] [5d]
+[:e'6f] f [:q'5f] d - [:9'4fh] [fh] q-[4fh] g [:8'3f] [3g]
+[30f] [:q'5f] g-[3h] [3fh] [30fh] [5g] [3f] [:e'6g] [:q'5f] -
+[4gh] [fh] [4qfh] [4g] [3f] [3g] [30f] [5f] g-[3h] [3fh]
+[30fh] [3g] [:e'6f] g [:q'5f] :q - [:9'4] [jb]-q [jb] [4hv]
+[3h] [hv] [370hv] [5fx] 3 h-[3v] [30hxv] [5fx] 3 [:e'6hv]
+[5hv] [:q'fx] [:9'4j] v-[4b]-q [jb] [4hv] [3h] [hv] [370hv] [5fx]
+[3h] [3hv] [30hv] [5fx] [3h] [:e'6hv] [hv] [:q'5f] [4h] [hj]
+[4qhv] [8g] - [3f] g 0-[3f] f [:8'3fh] [3fj] [30fh] [5g]
+[:e'6f] g - [:q'5f] f [:9'4fh] [4fj] [4qfh] g [370f]-4 [40g] -
+[40uf] [40f] [epfh] [fj] [wofh] g f g [wof] -
+[48qjb] [qjb] [qjb] [5qgc] [:8'3fx] [:8'qgc] b-[370fx] [5h] [3hv] [3hv]
+[370hv] [5gc] [35fx] [:e'6gc] [:q'5fx] [3j] [4jzb] [jzb] [qjb] [4gc]
+[:8'3fx] [3gc] [:8'370fx] [5hv] [hv]-[3v] [3hv] [30hv] [gc] [:8'3fx] [:e'6gc]
+[:q'5fx] j [:9'4jb] [jb]-q-[jb] [gc] [:8'3fx] [3gc] [370fx] [5hv]
+[3hzxvv] [hxv] [370hkxv] [5gc] [35fx] [:e'6gc] [:q'5fx] - [:9'4jb] [jb]-
+q-[jb] [:9'4gc] [:8'3fx] [gc] [370fx] [5h] [3h]-v [3hv] [370hv]
+[fx] v-[:e'6] v-[gcv] [:q'5z:u] [4m] [4j] j j [qg] [370f]
+g - [wf] [3j]-f h [3wh] h [6eg] f [5wg] f -
+[4f] [8qhj] [fj] [ifj] [0rg] f [og] - f 0 f [0uh]
+h [oh] [6eg] f [5wg] f 5 [4qhj] [fj] - [ifj] -
+[0rg] [fj] [gj] [of] - f [0oh] h h [0ug] f
+[6egj] [5wf] - [4f]-[8qhj] j j [370g] f g f
+3 [fg] [30wh] h h [wg] f g - [30dz] [sl] [4qdz]
+[sl] d-z [sl] d-z l d-z l - z-l l
+[dl] [lz] l [sdl] h-[lz]-[sd] h-[sdl] s [dh]-l-[sd]-h-l-s h-
+[dl]-s-h-l-s-h-l-s-h-l-s-h-l s-[hl] s-h-l s h-l s
+h-l [sz] [hl] z h-l - z - l z - [lz]
+z z, z-l [lz] z l - l-z l -
+[lz] l-z-l-z-l [qsl]

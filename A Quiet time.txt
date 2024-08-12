@@ -1,0 +1,39 @@
+Transpose by: 0
+o,
+u - [Pwra]-p, [Pwra]-o - u - [wra],
+[wrya] - [ra] - [wra] - [ra] - [wrya] - [0u] -
+[wra] - [7o] - [wra] - [0u] - [wra] - [7ra] -
+[wrya] - [0u] - [wra] - [7ra] - [wra] - [0u] -
+[wra] - [7ra] - [wrya] - [0u] - [wra] - [7o] -
+[wra] - [0u] - [Pwra]-[pj] - 7 - [wroa] - [0u] -
+[wra] - 7 - [wryad] - [0ra] - [wra] - [7ra] -
+[wryad] - [0u] - [wra] - [7o] - [wra] - [0u] -
+[wra] - [7ra] - [wrya] - [0u] - [wra] - [7ra] -
+[wra] - [0u] - [wra] - [7ra] - [wryad] - [0u] -
+[wra] - [7o] - [wra] - [0u] - [Pwrpa] - 7 -
+[wroad] - [0u] - [wra] - 7 - [wryad] - [0ra] -
+[wra] - [7ra] - [wryad] - [0u] - [wra] - [7o] -
+[wra] - [0u] - [wrya] - [7ra] - [wryad] - [30] -
+[wra] - 7 - [wra] - 3 - [wrua] - 7 -
+[wra] - [30pP]-u p-u-[wrpa]-u p-u-[7p]-u-p-u-[wrp]-u-p-u [3p]-u
+p-u-[wrpa]-u-p-u-[7p]-u-p-u-[wrpa]-u-p-u [3pP]-u-p-u-[wrpa]-u-p-u-
+[7o] - [0w] - [3u] - [0wr] - 7 - [0wy] -
+[30u] - [wra] - [7o] - [0w] - [3u] - [0wy] -
+[7ra] - [0wy] - [30] - [wra] - 7 - [0w] -
+3 - [0w] - 7 - [0w] - [30P]-p - [wra] -
+7 - [0w] - [3P]-p - [0w] - 7 - [0w] -
+[30P]-p - [wra] - [7o] - [0w] - [3u] - [0w] -
+[7ra] - [0wy] - [30u] - [wra] - 7 - [0w] -
+3 - [0w] - 7 - [0w] - [P30f]-P-f-P-[wraf]-P-
+f-P-[7f]-P-f-[Pc]-[0wf]-P-f-P-[Pf]-P-f-P-[0wf]-P-f-P-[7f]-P-f-[Pc]-
+[0wf]-P-f-P-[P30f] f-P-[wraf] P-f-P-[7p] - [0w] - [3o] -
+[0w] - [7ra] - [0wy] - u - [wra] - [7o] -
+[wra] - [0u] - [wra] - [7ra] - [wryad] - [0u] -
+[wra] - [7ra] - [wra] - [0u] - [wra] - [7ra] -
+[wryad] - [0u] - [wra] - [7o] - [wra] - [0u] -
+[Pwra]-p - 7 - [wroa] - [0u] - [wra] - 7 -
+[wryad] - [0ra] - [wra] - [7ra] - [wryad] - [0u] -
+[wra] - [7o] - [wra] - [0u] - [wra] - [7ra] -
+[wryad] - [0u]......
+[30r] - [wra]-u-a-u [7a]-u-a-u-[0w] - [3P]-T-P-T-[0wP] T-
+P-T [7p]-t-p-t-[0wO]-[ra]-O-[ra]-u

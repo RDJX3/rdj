@@ -1,0 +1,26 @@
+Transpose by: -2
+[4s] - s-g f-a 6 a-a-g f [9s] - s-
+h f-a 8 a-a-g f-a-[4s] - s-g f-a
+6 a-a-g f [9s] - s-h f-a 8 a-a-g
+f-a [4s] - s-g f-a 6 a-a-g f [9s] -
+s-h f-a 8 a-a-g f-a [4s] - s-g f-a
+6 a-a-g f [9s] - s-h f-a 8 a-a-g
+f-a [:9'4sj] - s-g [fh]-a [:e'f] a-a-g f [2sg] -
+s-[dh] [fhv] a-[18f] a-a-g f a-[:9'4sj] - s-g [fhv]
+a-[:e'f] a-a-g f [2sg] - s-d [fhv]-a-[18f] a-a-
+g f-a [:9'4sj] - s-g [fhv]-a-[:e'f] a-a-g f
+[2sg] - s-[dh] [fhv]-a-[18f] a-a-g f a-[:9'4sj] - s-g
+[fh]-a [:e'f] a-a-g f [2sg] - s-[dh] [fhv] a-[18f]
+a-a-g f a-[:9'4s] - s-g f a-:e [afk]-[afk]-g
+[fk] [2sl] - s-[hl] f-a [18s] [ak]-a-[sg] f-a [:9'4s] -
+s-g f-[ak] :e [afk]-a-g [fk] [2sl] - s-[hl] f-[ak]-
+[18sz] [ak]-a-[sgz] f a-[:9'4s] - s-g f [ak]-[:e'6] [afk]-a-g
+[fk] [29sl] - s-[hl] f [ak]-[18s] [ak]-a-[sg] f [ak]-[:9'4s] -
+s-g f-a-[:e'6] [afk]-a-g [fk] [29sl] - s-[hl] f-[ak]-
+[18sz] [ak]-a-[sgz] f-a [:9'4s] - s-g f-a [:e'6] [afk]-a-g
+[fk] [29sl] - s-[hl] f a-[18s] [ak]-[as]-[sg] f [ak]-[:9'4s] -
+s-g f a-[:e'6] [afk]-[ak]-[gc] [fk] [29sl] - s-[hl] f-
+[ak]-[18sz] [ak]-[as]-[sgz] f-a-[:9'4sl] - s-g f-a [:e'6] [af]-a-
+g [fk] [29sl] - s-[hl] f-[ak]-[18s] [ak]-[as]-[sg] f-a
+[:9'4s] - s-g f-a [:e'6] [afk]-a-g [fk] [29sl] - s-[hl]
+f [ak]-[18sz] [ak]-a-[sgz] f [ak]

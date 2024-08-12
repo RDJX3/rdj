@@ -1,0 +1,87 @@
+Transpose by: -2
+x, l - j - f - x -
+l - j - f - x - l - j f x
+l j f x l j f x l-j f x l-j f
+x-l j-f x l-j f-x l-j f-x l j-f x-l
+j-f [:9'4fx]-l j-f [fx] l-j f-[qix] l-j f-x [jl] j-f
+[epx]-l j-f x l-j-f [tsx] l-j f-x l-j f-[ufx]-[jl]
+j-[fx] x-l j-f [tsx] l-j-[fx] x l-j f-[epx]-l-j f
+x-l j-f [qix]-l j-f x l-j-[fx]-[1x] l-h [fx]-x l-
+h f [0ux] l h-[fx] x-l h-f [wox] l-h-f [fx] l-h f-
+[7rax] l-h [fx] x-l h-f [8tsx]-l h-[fx] x l-h f-[78rax] l-
+h [fx]-x l-h f [wox]-l h-f x-l h-f [0ux] l-h f-
+x l-h f [2z]-j g-d z-j g-d [qiz]-j g d-z j-
+g d-[epz] j-g d-z j-g d [tslz]-j g-d z-j g d-
+[uzx] j-g d-z j-g d-[8tslz]-j-g d z-j g-d [epz]-j
+g d-[jz] j-g d-[qiz] j-g d-z j-g d [37x]-z k-H
+x-z k-H [0ux]-z k-H x-z k-H [WOx]-z k-H-x z-k
+H-[ydx] z-k-H x-z k-H-[ufx] z-k H-x-z-k H-[OHx]-z
+k-H-x z-k-H u - o - i - u -
+[4upsf]... [4upsf],
+[4upsf], u - [4upsf]....
+u - o - i - u - [18tua]...
+[8tua], [8tuas] [8tuas] - [8tuas] [8tuas] u -
+[8tua]... [8tua] - u [8tas]
+[8toa] - [8tias] [8tas] u - [48upsf]...
+[4upsf], [4upsf], u -
+[4upsf].... [:9'4upf] -
+[:9'4opf] - [:9'4ipf] - [:9'4upf] - [8tuas]...
+[8tuas], [8tuas] [8tuas] - [8tuas] [8tuas] u -
+[8tuas]... [8tuas] - u [8tas]
+[8toas] - [8tias] [8tas] u - [:9'4u],
+[qi], [ep], [8ts],
+[uf], [8ts], [ep],
+[8qi].... [8u],
+[wo], [ra], [8ts],
+[8r], [wo], [0u],
+[:6'29], [qi], [ep],
+[ts], u, [ts],
+[8ep], [qi], [:8'3],
+[0u], [WO], [yd],
+u, [OH], u -
+o - i - u - [8ups]...
+[8ups], [8upsf], u -
+[8upsf].... u -
+o - i - u - [8tua]...
+[8tua], [8tuas] [8tuas] - [8tuas] [8tuas] u -
+[8tuas]... [8tuas] - u [8tas]
+[8toas] - [8tias] [8tas] u - [48upsf]...
+[48upsf], [4upsf], u -
+[4upsf].... [:9'48upf] -
+[:9'4opf] - [:9'48ipfg] - [:9'48upf] - [8tuas]...
+[8tuas], [8tuas] [8tuas] - [8tuas] [8tuas] u -
+[8tuas]... [8tua] - u [8tas]
+[8toa] - [8tias] [8tas] u - [qups], [qups],
+[qups], [qups] [qups], [qups],
+[qups], [qups], [qups]......
+[8oad], [8oad], [8oad], [8oad]
+[8oad], [8oad], [8oad], [8oad],
+[8oad], [8oad] [8oad]...
+[4qups], [4qupsl], [4qupsl], [4qupsl]
+[4qupsl], [4qupsl], [4qupsl], [4qupsl],
+[4qupsl], [4qupsl] [4qupsl], [4qupsl],
+[8oad], [8oad], [18oad], [8oad]
+[8oad], [8oad], [8oad], [8oad],
+[8oad] - u - o - i - u -
+[48qupsfl]... [48qupsfl],
+[48upsf], u - [48upsfl]....
+u - o - i - u - [8tuas]...
+[8tuas], [8tuas] [8tuas] - [8tuas] [8tuas] u -
+[8tuas]... [8tuas] - u [8tas]
+[8toas] - [8tias] [8tas] u - [4upsfl]...
+[48upsfl], [48upsfl], u -
+[48upsfl].... [:9'48upf] -
+[4opf] - [:9'48ipfg] - [:9'48upf] - [18tuas]...
+[8tuas], [8tuas] [8tuas] - [8tuas] [8tuas] u -
+[8tuas]... [8tuas] - u [8tas]
+[8toas] - [8tias] [8tas] u - [:9'4ep]....
+[uf]......
+[oh], [8igc], [1ux],
+[0u], [wo], [ra],
+[8ts], r, u -
+o - i - u......
+f - f-[djGL], f j - f j -
+[fj] - j - j f-j - j - [Hfk]...
+f - [fx] - f - f - f - f -
+[fjGL] - f j, f j - f j f -
+[fj]

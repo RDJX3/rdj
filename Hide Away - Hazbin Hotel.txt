@@ -1,0 +1,100 @@
+Transpose by: -1
+[9ed] - d - [sd] - [sd] - d s [sd] s s -
+[sd] d-[9ep] s [ps] s-[ps] s [ps] s [ps] s p -
+p p-s-p-p p [qtpg] - [pg]-p-p [pg] p [pg] p [pg]
+p [pg] - [pg] - [ph] g-[0epf]-[gh] f - f g-h
+f - f - f - f-f f f-f [9ed] - f-d -
+s - s - [sd] s d s [sd] - [sd] - [9ep] -
+s-p s p s p s [ps] s p - [ps] p [ps]
+p-p [qtg] - [pg] - [pg] [pf] g - g - g -
+[pg] - [gh] g [0ef] g f - h-f-g [Df] h f -
+f - f f-f f - [9ed] - f-d [df] f d s -
+d - [sdf] - s f-d [sd] f [9e] s [df] [sdf] [sd]
+[sdf] [sd] - [sd] - [sdf] s-d-[sd] d-f-[sd] - [qts] d
+p s s-d-s-d [ps] s-[psd] - [sf] p-s - [psd]
+s [0es] - p - s [ps] s [pd]-s [psd] [sd] [psd]-s [pd]-
+s-[psd] p-s-d [ps] [9ed] - d d d d-s - [sd]
+s [sf]-d-s-d s f [sd]-s [9es] s d-s s-[sd] [sd]
+s - [sd] s [sdf] s s d [sd] - [qtsd] s-[ps]
+s d-s-s-p s [sd] s [psf] d-s-p d-[sd] s-
+[0es] - [ps] s s-[ps] [sd]-p-s - [ps] [sd] s-p
+s - s - [9ep] - p s - [ps] - [sd]-p
+[ps]-[psd] [sd] [psdg] - [pg] [pd] [sg] [9eh]-g-d [sdgh] h [pdhj] [dh] [dhj]
+[dhj] h - [gh]-[hj] [dg] [gh] [sdh]-[gj] d-[qtgh]-d [sg]-[dh]-[sg]
+[sdgj] [sg]-h-s - [sh] - s-[sgh] [sh] [sf]-g-[sh]-g-[sfh]-g s-[0eg]-[sf]-
+[gh] s-[sfg] s-g f g-f g-f f-[fg]-g-[sf]-[fg]-f [fg] [fg]
+f-g-f-[fg] [9ep] g - p s p [ps] - [psd] p
+[psd] [ps] [psdg] s-[sg] [sdg] [9eh] g-g-[sgh] h-[sg] [gj] h [hj]-[dghj]
+[dghj] h-j j-[gh]-j-h [dg] g [sd] g [qtg] [sd] s [sg]-d-
+[sg]-d-[sg] [sdgj] - [sdh]-j j-[sgj] j-d-j-g [dgj] d-[0egj]-
+d [gj] d-j-[dg]-j-[dg]-j-[dg] [dj] g-d-[gj] d [dgj] d-j-[dh]-[gj]
+j-d-j-h-g-[9ej]-d-g d-[hj]-d-[ghj]-[dh]-j [dghj] [dg] h g-[dg]-h-
+[dhj]-d h - [gh] h-g [9eh] g h-[gh] [gh] [gh] h d-[gh]
+[gh]-d-g-h-d-d-[gh]-d-[dgh] [dg] [gh] d-[dh] [qtg] - d [dg] h -
+h g h g-h-g-h-[gh] [Yh] g h-g [gh] [0eh] g h-g-
+[gh] [gh] h [ghj] - [ghj] [ghj]-[gj] h-[gj] j-h-[gj]-[gh]-j-[ghj]-[hj]-h-[hj]-
+[9e]-h-h-j [gh] h - h-h-g h g h [gh] [gh] h
+g g-h g [9eh] g-h [gh] g h d-g [gh] d-[gh]-
+d-g - [dgj] - [dh] d-j-[qth] [dh]-[hj]-d-[hj]-d-j [dhj] [hj]-[dghj]-
+d-[hj] [dghj] [hj] d h [dj] d [dh] j-d-[0eh]-[hj]-d [gh]-j
+[hj] [ghj] [fh]-j [gj] [fj] [fgh] [sj] f f s d s [9ed]-
+s-d s-d-[sd]-h - d-h-h-g h g-[gh]-d-[dgh] [Yh] g
+h-h g [9eh] [dg]-[gh] [gh] [gh] - [dg] [gh] [gh]-d-[gh]
+[dg]-[gh] [dgh] [dgh]-g-d-[dg] [dg] [qtg] d d-g h - h
+[gh] h g-[gh]-h-g h g h-h-g [0eh] g g-h h
+g - h-[gj] - [ghj] [gj] j-h-[gj]-j [hj]-[gh]-[ghj] [ghj] [ghjj] [9eghj]
+[ghj] [hj] h h h-j-h [gh] h g-[gh] [gh]-[gh]-h - g-
+h g [9eh] g g-h-g-h g h d-[gh] g-d-[dg] h [dg] -
+[dghj] [dg] h-[dj]-j-[qtdgh]-[hj]-d-[hj]-[dh]-j-[dh] [dghj] [dgh] j-[dh]-j-[dh]-j-d
+[dghj] h-d - [dj] [dj] [dh] [dj] [0edh]-j [hj]-[dgj] [hj]-d [dghj] [dgj]
+f - [dghj]-f f s-f [fj] f [sf] [sd] f [9ed] - [sd] -
+[sd] - [sd] - d s [sd] s [sd] - [sd] d [9ep]-s -
+[ps] s-p s p s-p s [ps] s [pps] [ps] [ps] p-
+p [qtpg] - [pg] p [pg] p [pg] p [pg] p [pg] -
+[pg] - [pgh] g-[0epfh] g [fh] - f h [fh] - f -
+f - f f f f [9ed] - d - [sd] - [psd] -
+[psd] s-d s s d s - [9epd] s p s [psd]
+s [ps] - p s p - s-p-s p [qtg] -
+[pg] - [pg] - g p g - g g-g - h-g
+[0efh]-g [fh] g f h f - f - f - [fh] f
+f f-f [9ed] - f d d - d [df] f-d-[df] [df]-[df]
+s d [sf] d-d-s-d-[9e]-d [sdf] - s-d-s-f-d-[sf]-[sd]
+[sd] [sdf]-s d-s d [sdf] d - [qtd] - d - [pd] -
+d d-p d d-p-d p - [pd] - [0epd] - d-
+p [pd] - d d [pd] - [pd] [pd] d [pd] p-d p -
+[9ed] - p-d-p-[pd] p-d-p-d-p-d-p-d-[pd]-p [pd] d-p-p [pd]
+f [sd] - [9ef] d [sd] - f-[sd] d-s-f-d-[sf]-d-s [sd]
+d-f-[sd] p - [pd] - [qtpd] p [pd]-d d-p - d-p
+[pd] p-d p-d-p p - [pd] p-[0ed] - s -
+p - s - p [ps] [psd]-s-[ps] s-[pd]-[ps] s [9ep] -
+s p s p [ps] p [psd] - [ps] [ps]-[sd]-[ps]-g-d-p-[ps]-d-
+p [psg] [9eh] - [dh] [sh] [phj] - [hj]-[gh]-j-h [ph] j-j [pgj]-
+h-j [pdgh] g [sd] - [qt] d d-[sg] h-d-s-[dg] s -
+[sdh] - [sg] s-[sf] [sgh] [sfh] s-g-[0esg]-f [sf] [sfg] g
+f f g [fg] f-f f-f-g-f f f-f [9ep] -
+p s - [ps] - [psd] [ps] [psd] [psd] [psg] s-[psdg]-[psd]-[dg]-s
+[9eh] s-[dg] [dg] [dh] [shj] [dg] [dh]-j [dgh] j-h j [pgh] [hj] [pdgh]
+h-g-[sdh] g [qtg] h-[dg]-s [gh] s-d [sdg] [sj] - h j-j
+[gh] [hj] [hj]-[sd]-j-[gh] [dg] - d-[0e] g-h d-g [dg]-[gh] d [dgj] -
+[dgj] d [pdgj] j [dgh] g-j d-[gh] g-[9e]-[dgh]-d [dghj] [dg]-h [dgh]
+d [dh]-h-[dgh] h - [dgh] [gh]-h-h g-h-g-h [gh] [9eh] g
+[gh] [gh] [gh] h-[dgh] [gh] [dgh]-g-d-[gh]-d-g-g-[dgh]-[dg] [dg]
+h-[dg] [qtg]-d - [dg] h - h-h-g h g-g-[gh]-g-[gh]
+h-g-g-h-g [gh] [0eh] g [gh]-h-g-h-g h [gj] h-[gj] [ghjj]
+j-h j-h-[ghj]-[ghj] [gj]-h [ghj] [9eh] h-g-h [ghj]-h h j-h
+g h - [gh]-[gh] h g-h h g [9eh] g [gh] [gh]
+g-h [dg] g-d-[dgh]-[dg]-d g [dj] [dg] [dh] d-j-[qth]-[dj]-
+h-[dhj]-[dhj]-[hj]-[dhj]-[dhj] [dhj] [hj]-[dh]-[hj]-h-j-[hj] d s [dhj] d-
+[dh] j-d-[0ehj]-d j [pdghj] j-d-[ghj] [dghj] [dfj] [dgj] [dgj]-[ffgj] [fg]-s -
+f s [sd] - [9ed] s d-[sd] [dh] s [sdhh]-[dg] h
+[dg] g-h-g [pgh] [gh]-h [gh] [9eh] - g [gh] h-[gh] h
+d [gh] d-g-d-[gh]-d-g-d-g-d-g-[dghh]-[dg] [dg] g [qtg]-d d g-
+d h - h-h-g h g-[gh]-g-[gh]-g-h-g g-[gh] h-g
+[0eh] - g-g-h [gh] h [gj] [gh] [ghj]-[gh]-j [uh] [gj] [ghhjj]
+[ghj] [hj]-g-[hj]-g-[9e] [ghj] h - h - h-h g h g [dh]
+[gh] h-h-g-g [gh] g-h-[9eh] g [gh]-g [gh] h-[dg]-h-
+g-g d-g [dg] g-[dj] - d-h j-[qthj]-d h-[dhj]-h-[dh]-
+[dj]-h-[dj]-h-[dj] [dhj] [dhj] [dhj] [dj] - [dhj] - j-[dh] j-[dj]-[0edhj]
+h-[dgj] [hj] [hj]-d-[ghj]-g-[fhj] [dghj]-[fj] [fghj] s - [fg]-s f-s-
+[sd] - [sf]-[df]-[sd]-f-[sd] [df] s-d-[sf]-d-[sf] [sd]-f [sd]-[df] [sdf] d-
+[sdf] d-f [sd] [sf]-d [df]

@@ -1,0 +1,18 @@
+Transpose by: 0
+p......
+d - p - d, p - d - [6f],
+d - f - [^g] - f - d - s - [9p],
+d - p - d, p - d - [6s] - a-s-
+a-p, [5a], p - [0oh] - [:6'2p],
+d - p - d, p - d - [:e'6j],
+h - g - [:r'^g] - f - d - s - [:6'2p],
+d - p - d, p - d - [:e'6s] - a-s-
+a-p, [:q'5a], p - o - [:6'2yp],
+d - p - d, p - d - [:e'6psf],
+d - f - [:r'^Pdg] - f - d - s - [:6'2yp],
+d - p - d, p - d - [:e'6ups] - a-s-
+a-p, [:q'5yoa], p - o - [:6'2yp],
+d - p - d, p - d - [:e'6sfj],
+h - g - [:r'^Pdg] - f - d - s - [:6'2yp],
+d - p - d, p - d - [:e'6ups] - a-s-
+a-p, [:q'5oa], p - o - [:6'2yp]

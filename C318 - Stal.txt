@@ -1,0 +1,65 @@
+Transpose by: -7
+:e, 6, :e 6 -
+:e 1, [:e'6]... 6 -
+:e :e, 6... 6 -
+1 :e, [16]... 6 -
+:e [6e], 6 - 1, 6 -
+:e [1e], [:e'6], r, [6t] -
+[3e] :e, 6 - w, 1 6 -
+[1e] :e, [16], :e 6 -
+:e [6e] - u 6, :e 6 -
+:e [18e], y, t - 3 [6r] -
+[3e] :e, 6 - w, 3 6 -
+[10] :e, [16]... 6 -
+:e [6e], [6o], u - [3ry] 6 -
+[:e'6u] [18e], :e, r - 3 [6t] -
+[3p], 6 - o, [30] 6 -
+[1p] :e, [16], 3 6,
+[:q'5u] p [ad] 5, 3 2 -
+:t [:e'b], [L0eb], x - [7L] [0ej] -
+:e [C1v] - v [8wx] - [0c] [el] - 6 [0wl] -
+5 [L2z:u], [9eC] - [z:u] 3, [90wz:u] -
+5 [Cv], [9wx] - c [4x] - z [9q],
+[:e'6b], [0eL] :y - x - [6eL:y] [0ez] -
+:e [C18v], [8wtx] - c-x-l - [6v] [8wlv] -
+[:e'lv] [L2zv], [9eC] - [2z] 3 - 3 [0wz] -
+5 v, [9wx] - [5c] [4x] - [4zc] [8ql] -
+5 [6l], e - [60as] [of] - 6 [esf] -
+[ah] 1 - [sf] 8, 1 8 -
+[9afh] [29oadG], [9k], [30dh] - [adk] 0 -
+[wadh], w - [ioaf] 4, [qsh] -
+5, [wo] - s f - 5 [wsf] -
+[ahk] 8 - [wsfh]... 8 w -
+[ah] [2efj] - h [9z], [30hk] - [hz] 0 -
+[ah], w - [ig] 4, [qsh],
+[:e'psf], 6, :e 6,
+:e f - 6 - p, :e [6p] -
+[:e'6] P, 6 - [gc], :e 6 -
+[3h] :e - g 6, d...
+6, *, [0p] - a w - o
+p-e u - w, 0 - I [*o]
+a d [8s], 0, w,
+[ts], [%d], [7gc], [9H],
+[qgc] - H [:e'6fj], !, [3p],
+[5a] - o p-6 u - 5, 3 -
+I [!o] a d [1s], 3, 5,
+8, [%d], [8g], [(H] -
+g 9 - H [S6j], *, [0p] -
+a [wh] o p [euf], w - S 0 -
+I [*od] a d [8sf], [0g] - f w,
+[rs], [ED], [Wdg], [woH] -
+g [(D] [HV] f [S6j], *, [0p] -
+a [wh] o p [euf], w - S 0 -
+I [*o] a d [8s], 0, w,
+t - h [YOD], D....
+[:e'V], [0eL], [zx] - z-[7L] [0ej] -
+:e [C18v] v v [8wx] - [0c]-x-[el] - 6 [0wl] -
+5 [29z], [9QC] - [z:u] 3, [90wz:u] -
+5 [Cv], [9wx] - [c:p] [4x] - z [9q],
+[:e'Vb], [0eL] :y - [zx] - 6-L [0ez:u] -
+:e 1-[Cv] - v [0exC] - c l - [6v] [0elv] -
+[:e'v] [2z], [9eC] - [2z] 3 - 3 [0wz] -
+5 [Cv], [9wx] - [5c] [4x] - [4z] [8q] -
+5 6, 6 - :e, 6,
+[:e'6], 6 - :e, 3,
+:e, 6 - :e, :e [:e'6]

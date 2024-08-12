@@ -1,0 +1,29 @@
+Transpose by: -10
+[5wo], [woh], [hv], [GC] - [5wo]
+[$QI], [$QI], [IG], P - [$QI]
+[:t'7r], [7r], [ra], [yd] - [:t'7rb]
+[29y], [9y], [0u], [QI] - [9e]
+[5wo] - g [oh], [hv], [oGC] - [5wo]
+[$QI], [QI], [IG] - P - [$QI]
+[:t'7] - [7r], [ra], [yd] - [:t'7rb]
+[29y], [9y], [0u], [QI] - a-9
+[5wh] - h [oh], [oh] - h - [Ih] - h [5w]
+[$QG] - G - [QG] - G - I - d - [Pf] - G [$Q]
+[:t'7] - G - [rG], [aG] - f - [Id] - f [:t'7]
+[29] - G [9yf] - d - [0u], [QI] - a -
+[5wh] - h - [woh], [oh] - h [Ih] - h [5w]
+[$QG] - G - Q - G - I - d - [Pf] - G [$Q]
+[:t'7] - G - r - G - [ra] - f - [Id] - f [:t'7]
+[29] G - [9f] - d - [0u] - p - [QIa] - p -
+[5wh] - h - h, [wh] - h - [Iwh] - v -
+[7G] - G - [QIG], [IG] - G - [QIG] [kv] -
+[29G] - G - [rx], [Gaz] - f - [Id] - d -
+[$Q], 9, [30], [29] -
+[5wh] - h - h, [wh] - h - [Iwh] - v -
+[7G] - G - [QIG], [IG] - G - [QG] - C v
+[29G] - G - [rx], [Gaz] - f - [Id] - d -
+[$Q], 9, [30], [29],
+[5w] - [oh], [hv], G - [5wo]
+[$QI], [QI], I, P - [$QI]
+[:t'7] - [7r], r - [yd] - [:t'7r]
+[29y], [9y], [0u], [QI]

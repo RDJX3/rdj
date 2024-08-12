@@ -1,0 +1,38 @@
+Transpose by: +3
+p - [ps],
+p s [hv], p [rhv] - s -
+p - j, [Il], p - s,
+p s h... [rhv] - s -
+p - [rhv]-j, [rl], o - s,
+o s f... p...
+s-d, [gc], [ov] - s,
+o s [Wf]... d...
+s-d, s, p - s, p
+s h... p [rhv] - s -
+p - [hv]-j, l, o - s,
+o s f... p,
+s-d, [gc], p - s,
+p s h... [rhv] - s -
+p - [hj], l, [oh] - s,
+o-s f... d...
+[Orsd], [rs], [ep] - [es],
+[wop]-s [0h]... [erophv] - [0aH] s -
+[wop] - [eofh]-j - [ydj] l - [eop] - [wophz] - s -
+[wo] [qio]-[9ps] [wf]... [wop] - [9p],
+[wo] - [eps]-d - [I9yp] g - [wo] - [ep] - [ps],
+[wop] s [0h]... [eophv] - [0a] s -
+[wop] - [efh]-j - [yj] [el] [epf] - [wopz] - s -
+w [qio] [9ps] [wof], [wod] - [9p],
+[wo] - [eps]-d - [wo] [es] 0 - [ep] - [ps],
+[wop] s [0h]... [eoph] - 6-0 [6s] -
+[wop] - [eoh]-j - [yd] [el] - [ero] - [woph] - s -
+[qwrio] [Op]-[9rps] [wef]... [wrop] - [9yp],
+[wod] - [eps]-d - [9yp] [eg] - [wo] - [ep] - [ps],
+[wop] s [0h]... [erhv] - [0H]-s -
+[wop] - e-j - [ypd] [el] - [eop] - [wop] - [ps] -
+[wo] - [9qrops] [weof]... [wod] - [9p],
+[(w] [epsd] - [wo] [ps] - 0 - p - [es],
+p s [hv]... [hv] - [ps] -
+p [hv]-j, l, p - s,
+p-s h... p [rhv] - s -
+p - [Hhj], l

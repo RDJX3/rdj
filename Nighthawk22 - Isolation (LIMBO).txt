@@ -1,0 +1,92 @@
+Transpose by: -7
+[ep] p p p p p p p p p p p p p
+p p [qp] p p p p p p p [0p] p p p
+p p p p [6p] p p p p p p p p p
+p p p p p p [6e] - [psfj] - [sfh]...
+[:t'7] [up] [ts] [uf] [18of] - [tus] - [tus] - [rya] - [:q'5wro],
+s a [:e'6upf] - [etup], [eupf] - [:t'7yad] - [roa],
+[yad] - [18fjl] - [1sfj], [fjl] - [:t'7hkz] - [dhkz],
+[hkz] - [6jlxb] 6-6-6 6 6-6-6 6 6 6 6-6-6 6
+6-6-6 [6flx] 6 [4dkz] 4-4 4 [4q]-4-[4q] [49q] 4 [5ahk] 5-
+5-5 5 [5ak]-5-5 [5ak] [5kz] [6sfj] 6-6-6 6 6-6-6 6
+6 6 6-6-6-6 7-7-7 [7adk] 7 [8sjl] 8-8-8 8 8-
+8-8 8 8 [7ahk] 7-7-7 7 [7ak]-7-7 [7adk] 7 [6upsf] 6
+e 6 6 6 e [6ak]-[sl]-[6pdjz] 6 e [6osh] [6oak] 6 e [6is]
+4 4 q 4 4 4 q 4 [wyoadhk] 5 5 [woadhk] 5 [5osdhl]
+[5ak] [wod] [6upsf] 6 e 6 6 6 e [6ak]-s-[6pdjz] 6 e [6os]
+[6oak] 6 e [6is] 4 4 q 4 4 4 q 4 [wyoadhk] 5
+5 [woadk] 5 [5osh] [5ak] [wod] [6psfj] [6p] [eak] [6s] [6dz] [6s] [ea] [6o]
+[6djz] [6d]-h-[ej] [6l] [6hk] 6 [eh] [6l] [4g] 4 q [4j]-[4k] [4l]
+q [4j] [whk] [5h] [5dz] [whkz] 5 [5hl] [5hk] [wz] [6sfjl]-k-[6j]-h-[ez]-x-[6v]-
+b-[6m] 6 [en] 6 [6jzb] 6 [eb] [6ln] [6klm] [6:u] [em] [6ln] [4c]
+[4:p] [qc] [4m] [4c] [4:p] [qb] [4q:o] [whkz] [5k] [5h] [wsklz] [5dz] [5sl] [5ak]-
+5-[wsl] [6pj] 6-6-[6x] [6z] [6l]-6-[6k] [6j] [6h] [6j] 6-6-6 6
+7-7-7 7 [7l] [8k] 8-8-8 [8h] [8v]-8-[8c] [8x] [8z] [7n] [7v]
+[7c] [7z] [7c] [7v] [7n] [7v] 6 6-6-[6x] [6z] [6l]-6-[6k] [6j] [6x]
+[6n] 6-6-6 [6b] [7m] [7n] [7b] [7x] 8 [8c]-8-[8n] [8m] [8:u]-8-[8m]
+[8n] [8m] [7n] 7-7-[7v] 7 [7c] 7 [7v] 7 [6j] 6 [ex] [6z]
+[6l] [6k] [ej] [6h] [6j] 6 e 6 6 6 e [6l] [4k] 4
+q [4h] [4v] [4c] [qx] [4z] [wn] [5v] [5c] [wz] [5c] [5v] [5n]-5-[wv]
+6 6 [ex] [6z] [6l] [6k] [ej] [6x] [6n] 6 e [6b] [6m] [6n]
+[eb] [6x] 4 [4c] [qn] [4m] [4:u] [4m] [qn] [4m] [wn] 5 [5v] w
+[5c] 5 [5v]-5-w [6ups] 6-6-6 6 6-6-[6u] 6 [6ak]-s-[6pd] 6-
+6-6 [6os] [7oa] 7 7 [7is] 8 8-8-8 8 8-8-8 8
+8 [7yoa] 7-7-7 [7oad] 7-7-[7os] [7a] [7od] [6upsf] 6-6-6 6 6-
+6-6 6 [6ak]-s-[6pd] 6-6-6 [6os] [7oak] 7 7 [7isg] 8 8-8-
+8 8 8-8-8 8 8 [7yoa] 7 [7r] [7oad] [7r] [7os] [7a] [7od]
+[6upsf] 6 e 6 6 6 e [6ak]-s-[6pdz] 6 e [6os] [6oa] 6
+e [6is] 4 4 q 4 4 4 q 4 [wyoadhk] 5 5 [woadhk]
+5 [5osdhl] [5ak] [wod] [6upsf] 6 e 6 6 6 e [6ak]-s-[6pdz] 6
+e [6osh] [6oak] 6 e [6is] 4 4 q 4 4 4 q 4
+[wyoadhk] 5 5 [woadhk] 5 [5oshl] [5ak] [wod] [6l] [6k] [el] [6z] [6x] [6z]
+[el] [6k] [6l] [6n] [eb] [6x] [6l] [6j] [eh] [6j] [4h] [4j] [qk] [4jl]
+[4z] [4l] [qk] [4l] [whz] [5h] [5k] [wz] [5hk] [5h] [5z]-5-[wh] [6j] [6p]
+[ej] [6l] [6k] [6z] [ex] [6z] [6h] [6k] [el] [6x] [6k] [6z] [eh] [6k]
+[4g] [4s] [qpj] [4s] [4g] [4j] [ql] [4j] [wh] [5k] [5z] [wsl] [5dz] [5sl]
+[5ak] [wsl] [6sfj] 6 [euf] 6 6 [6ig] e 6 [6yd] 6 e [6uf]
+6 [6ep] [etsf] [60uf] [4qi] 4 [qtis] 4 4 [4yd] q 4 [wroa] 5
+5 [wts] 5 [5o] [5o] [wep] 6 6 [euf] 6 6 [6ig] e 6
+[6yd] 6 e [6uf] 6 [6ep] [6etsf] [60uf] [4qi] 4 [qtps] 4 4 [4yd]
+q 4 [wroa] 5 5 [wts] 5 [5o] [5o] [wep] [6t] 6 [euf] 6
+6 [6ig] e 6 [6yd] 6 e [6uf] [6r] [6ep] [ets] [60tu] [4qi] 4
+[qtis] 4 4 [4yd] q 4 [wryoa] 5 5 [wts] 5 [5o] [5o] [wep]
+[esfj] 6 [6uf] 0 e [6ig] 6 0 [eyd] 6 6 [0uf] e [ep]
+[wts] [0u] [qi] 4 [4ts] 8 q [4yod] 4 8 [wryoa] 5 5 [wts]
+[5yd] [5ts] [5ra] [wts] [6upsf] 6 e 6 6 6 e [6ak]-[sl]-[6pdj] 6
+e [6oshl] [6oak] 6 e [6is] 4 4 q 4 4 4 q 4
+[wyoadhk] 5 5 [woadhk] 5 [5osdh] [5ak] [wod] [6upsf] 6 e 6 6 6
+e [6ak]-s-[6pdjz] 6 e [6os] [6oak] 6 e [6is] 4 4 q 4
+4 4 q 4 [wyoadhk] 5 5 [woadhk] 5 [5osh] [5ak] [wod] [6psfj] [6p]
+[ea] [6s] [6dz] [6s] [eak] [6o] [6djz] [6d]-h-[ej] [6l] [6hk] 6 [eh] [6l]
+[4g] 4 q [4j] [4k] [4l] q [4j] [whkz] [5h] [5d] [whkz] 5 [5hl]
+[5hk] [wz] [6sfjl]-k-[6j]-h-[ez]-[Lx]-[6v]-b-[6m] 6 [en] 6 [6jzb] 6 [eb] [6ln]
+[6klnm]-[6:u] [em] [6ln] [4c] [4:p] [qc] [4m] [4c] [4:p] [qb] [4:o] [whkz] [5k]
+[5h] [wskz] [5dz] [5sl] [5ak] [wsl] [D8osh] 8 8 8 8-8-8 8 [8d]-
+D-[8sg] 8 8 [8PDJ] [P9d] 9 9 [9OD] ( (-(-( ( (-(-
+( ( ( [P9idg] 9 9 [P9dg] 9 [9PD] [9d] [P9g] [8osD] 8-8-8
+8 8-8-8 8 [8d]-D-[8sg] 8-8-8 [8PD] [P9d] 9 9 [9ODH] (
+(-(-( ( (-(-( ( ( [EPidg] ^ ^ [dgEPJ] ^ [^PDJ] [^dz]-
+^-[gEPJ] [8Z] [8z] [tZ] [8c] [8v] [8c] [tZ] [8z] [8Z] [8:u] [tm] [8v]
+[8Z] [8l] [8tJ] [8l] [%J] [%l] [Wz] [%Z] [%c] [%Z] [Wz] [%Z] [EJc] [^J]
+[^z] [Ec] [^Jz] [^J] [^c] [EJ] [8l] [8s] [tl] [8Z] [8z] [8c] [8tv] [8c]
+[8J] [8z] [tZ] [8v] [8z] [8c] [tJ] [8z] [%H] [%D] [Ws] [%D] [%H] [%l]
+[WZ] [%l] [EJ] [^z] [^c] [EDZ] [^gc] [^DZ] [^dz] [EDZ] [8l]-h-[8D]-[8s]-[8o]-s-[8D]-
+h-[8l]-h-[8D]-[8s]-h-D-[8s]-D-[8l]-h-[8D]-[8s]-o-s-[8D]-h-[9l]-h-[9D]-s-[9h]-D-[9s]-D-[(H]-D-
+[(s]-O-[(Y]-O-[(s]-D-[(H]-D-[(s]-O-[(D]-s-[(O]-s-[9J]-g-[9d]-P-i-P-[9d]-g-[9J]-g-[9d]-[9P]-[9g]-
+d-[9P]-d-[8l]-h-[8D]-[8s]-o-s-[8D]-h-[8l]-h-[8D]-s-[8h]-D-[8s]-D-[8l]-h-[8D]-[8s]-[8o]-s-[8D]-h-
+[9l]-h-[9D]-s-[9h]-D-[9s]-D-[(H]-D-[(s]-O-[(Y]-O-[(s]-D-[(H]-D-[(s]-O-[(D]-s-[(O]-s-[9J]-g-[9d]-
+P-9-i-P-[9d]-g-[9J]-g-[9d]-P-[9g]-d-[9P]-d-[8l]-h-[8D]-s-[8o]-s-[8D]-h-[8l]-h-[8D]-s-[8h]-D-
+[8s]-D-[8l]-h-[8D]-s-[8o]-s-[8D]-h-[9l]-h-[9D]-s-[9h]-D-[9s]-D-[(H]-D-[(s]-O-[(Ys]-O-[(s]-D-[(H]-
+D-[(s]-O-[(D]-s-[(O]-s-[9J]-g-[9d]-P-[9i]-P-[9d]-g-[9J]-g-[9d]-P-[9g]-d-[9P]-d-[8l]-h-[8D]-s-
+[8o]-s-[8D]-h-[8l]-h-[8D]-s-[8h]-D-[8s]-D-[8l]-h-[8D]-s-[8o]-s-[8D]-h-[9l]-h-[9D]-s-[9h]-D-[9s]-
+D-[(H]-D-[(s]-O-[(Y]-O-[(s]-D-[(H]-D-[(s]-O-[(YD]-s-[(O]-s-[9dJ]-g-[9d]-P-[9i]-P-[9YD] [9ig]
+[9YD] [9yd] [9YD] [8osD] 8 8 8 8-8-8 8 [8d]-D-[8sg] 8 8
+[8PD] [P9d] 9 9 [9OD] ( (-(-( ( (-(-( ( ( [P9idg]
+9 9 [P9dg] 9 [9PD] [9d] [P9g] [8osD] 8-8-8 8 8-8-8 8
+[8d]-D-[8sg] 8 8 [8PD] [P9d] 9 9 [9ODH] ( (-(-( ( (-
+(-( ( ( [P9idg] 9 [9y] [P9dg] [9y] [9PD] [9yd] [P9g] [1oh] 1
+[18ig] 1 [1YD] 1 [18oh] 1 [1ig] 1 [18YD] 1 [1yd] 1 [8ig] 1
+[:q'5YD] :w [:w'%yd] [:w'%] [Yts] - [%YD] % [^yd] [:r'^] [wo] ^ [EP] [18]
+[wo] ^ [1oh] [18] [18ig] 1 [1YD] [1OH] [18oh] 1 [1ig] [18] [18YD] [1oh]
+[1yd] 1 [18ig] [18] [:w'YSD] [:w'%] [%yd] [:w'%] [ts] [ig] [%YD] @ [^yd] :r
+[oh] [:r'^DZ] [:r'^gc] [:r'DZ] [:r'dz] [:r'^DZ] [18sl]

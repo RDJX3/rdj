@@ -1,0 +1,35 @@
+Transpose by: 0
+[woa] a
+a a [0o] - a o [ep] - a - y o p - [wa]
+a a a [0o] - a o [ep] - a - [9p] o I -
+[0a] a a a [ro] - a d [es] - a - [yp] a Q -
+[0a] a a a [rO] - a d [es] - a - [yp] a I
+p [wo] - a - [0o] - a o [ep] - a - y o
+p - [wa] a a a [0o] - a o [ep] - a - [9p]
+o I - [0a] a a a [ro] - a d [es] - a -
+[yp] a Q - [0a] a a a [rO] - a d [ef] - d -
+[yI] - p a [wd], r, [ep] - d
+a [9d] a d a [wd] - a - r - d a [ed] -
+o - [Qp] a - [0d], r, e -
+d a [9d] a d a [0f] - a - r - d a [ed] -
+a - [9p] a s - [wd], r, [ep] -
+d a [9d] a d a [wd] - a - r - d a [ed] -
+o - [Qp] a - [0d], r, e -
+d a [9d] a d a [0f] - a - r - d a [ed] -
+a - [yp] o - [wa] a a a [0o] - a o [ep] -
+a - y o p - [wa] a a a [0o] - a o [ep] -
+a - [9p] o I - [0a] a a a [ro] - a d [es] -
+a - [yp] a Q - [0a] a a a [rO] - a d [es] -
+a - [yp] a I p [wo] - a - [0o] - a o [ep] -
+a - y o p - [wa] a a a [0o] - a o [ep] -
+a - [9p] o I - [0a] a a a [ro] - a d [es] -
+a - [yp] a Q - [0a] a a a [rO] - a d [ef] -
+d - [yI] - p a [wd], r, [ep] -
+d a [9d] a d a [wd] - a - r - d a [ed] -
+o - [Qp] a - [0d], r, e -
+d a [9d] a d a [0f] - a - r - d a [ed] -
+a - [9p] a s - [wd], r, e -
+d a [9d] a d a [wd] - a - r - d a [ed] -
+o - [Qp] a - [0d], [ra], [ep] -
+d a [9d] a d a [0f] - a - r - d a [ed] -
+a - [yp] o....

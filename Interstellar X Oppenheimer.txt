@@ -1,0 +1,149 @@
+Transpose by: -10
+f, f, f, f,
+f, f, [pfj], f,
+f, [afk], f, f,
+f, f, f, [pfj],
+[afk], [sfl], [afk], [pfj],
+[afk], [sfl], f, f,
+[afk], f, f, f,
+f, f, [pfj], f,
+[fx], [sfl], f, f,
+[afk], f, f, f,
+f, f, [pfj], [fx],
+[sfl], [afk], [pfj], [afk],
+[sfl], f, f, [afk],
+f, f, f, f,
+f, [pfj], [fx], [sfl],
+[afk], [pfj], [afk], [sfl],
+f, f, [dfz], f,
+f, [fx], f, f,
+f, f, f, [qip] -
+P - [is] - f - [ig] - d - [woP] - s -
+[od] - g - [oj] - f - [eps] - d - [pf] -
+j - [pJ] - g - [EPd] - f - [Pg] - J -
+[Pl] - j - [qif] - g - [ij] - l - [iz] -
+J - [woj] - J - [ol] - x - [oc] - z -
+[epJ] - l - [pz] - c - [pb] - x - [EPl] -
+z - [Px] - b - [PB] - c - [qim] - B -
+[ib] - x - [iz] - c - [woB] - b - [oc] -
+z - [ol] - x - [epb] - c - [px] - l -
+[pJ] - z - [EPc] - x - [Pz] - J - [Pj] -
+l - [qix] - z - [il] - j - [ig] - J -
+[woz] - l - [oJ] - g - [of] - j - [epl] -
+J - [pj] - f - [pd] - g - [EPJ] - j -
+[Pg] - d - [Ps] - P - [4qp], f -
+q - p, [4qp], f - q -
+p, [5wa], f - w - a,
+[wa], f - w - a, [6es],
+f - e - s, [es], f -
+e - s, [5wd], f - w -
+d, [wd], f - w - a,
+[4qp], f - q - p, [qip],
+f - q - p, [5wa], f -
+w - a, [5woa], f - w -
+a, [6es], f - e - s,
+[6eps], f - e - s, [7rd],
+f - r - d, [7rad], f -
+r - d, [30af], [afk] - [0u] -
+[af] - r - [0raf], [0ak] - u - f -
+[0r] - [29dG], [dk] - [9y] - [dG] - e -
+[9eydG], [dk] - y - [dG] - e - [18fh],
+[fk] - [8t] - [fh] - w - [8wtfh], [fk] -
+t - [fh] - w - [G29j], [Gk] - [9y] - [Gj] -
+e - [G9eyj], k - y - G - e -
+[30f], [ak] - [0u] - [af] - r - [0ruaf],
+[ak] - u - [af] - r - [29dG], [dk] -
+[9y] - [dG] - e - [9eydG], [dk] - y - [dG] -
+e - [18fh], [fk] - 8 - [fh] - w -
+[8wfh], [fk] - t - [fh] - w - [G29j],
+[Gk] - [9y] - [Gj] - e - [G9yj], [Gk] -
+y - G - e - [30f], [ak] - [0u] -
+[af] - r - [0raf], [afk] - u - [af] - r -
+[5wdh], [dk] - [wo] - [dh] - y - [wyodh],
+[dk] - o - [dh] - y - [6efj], [fk] - e -
+[fj] - u - [eupfj], [fk] - p - [fj] - u -
+[5wdh], [dk] - [wo] - [dh] - y - [wyodh],
+[dk] - o - [dh] - y - [29dG], [dk] - [9y] -
+[dG] - e - [9eydG], [dk] - y - [dG] - e -
+[30fkx], [kxvn] - [0u] - [fhkx] - r - [0rufhkx],
+[kxvn] - u - [0fhkx] - r - [kz$QGC], [Ckzn] - [QI] -
+[Gkz] - T - [kzQIGC], [Ckzn] - I - [kzGC] -
+T - [5whkzv], [kzvn] - [wo] - [hkzv] - y - [wohkzv],
+[kzvn] - o - [hkzv] - y - [$QCjzb], [Ckzn] - [QI] -
+[Cjzb] - T - [QTICjzb], [Ckzn] - I - [GC] - T -
+[30fx] k - h-[rk] [0fx] r-h-f-u [rh]-k [0fx] r [ufh]
+h-[rk] [0fx] r-h-[uf] [rh]-k [$QGC] z k - [Tk] z-[QGC]
+[Tz]-k-[IG] [Tk] z-[QGC] [Tz] k-[IG] [Tk] z [QGC] T-k-[IG] [Tk]
+z-[5whv] z k o-k [yz] [whv] z-y-k [oh] [yz] [whv] [yz]-k
+[oh] y-z [whv] z-y-k [oh] y-z [6ejb] C z-j [uz] C [ejb]
+C-u-z [pj] z-u-C [ejb] C-u-z [pj]-z-u-C [ejb] u-z [pj] [uz]-
+C [ejb] [uC] z [pj] z-u-C [ejb] [uz] [pj] z-[uC] [ejb]-C-u-z
+[pj] [uz]-C [ejb] [uC] z-[pj] [uC] - [18fx] k [wtfh] [uk] [okn]
+u [tx] [wv] [8fx] [wk] h-[tf] [wk] [8fx] w-h [tf] [uk]
+[wokn] - [tx] [wv] [8tfx] [wk] h t w-k [29GC] z e-[yjk]
+k-[Iz] [epkn] - [yk] z-[eC] [9G] z-e-k y e-z [9GC]
+[ez] k y-k [Iz] [pkn] C-[Iz]-k-y-z-[eC] [9GC]-z [ek] y e
+z [30h] - [rk] u-k-z-o-[akn] [oz]-k-u z-r [0h] [rz]-k
+[uh] [rk] z [0hv] [rz]-k-[uh] [ok]-z [akn] v z-u-z-r [0hv]
+[rz] k-u [rk] - [29jb] C z-[ej]-[yz] [IC] [pkn] - z-[yk] z-[eC]
+[9jb] e-z [yj] z-[eC] [9jb] [eC] z [yj] z-[eC] [9jb] c-e-z-[yj]
+[iz]-c [pjb] c z-[yj] z-[ec] [9jb] [ec]-z-[yp]-[ez]-c [:r'^dz] J-
+g E [yJ] [ijb] c-z E z-[qc] [^dz] [qJ]-g E [qg]-J
+[^dz] [qJ]-g [Ed] g-[yJ] [ijb] [yc]-z-j-E-z-[qc] [^dz] J-[qg] [Ed]
+g-[qJ] [18fx] - w - [ul] [ojb] x j - [wx] [8fx]
+l-j t j-[wl] [8fx] j [tf] [ujl] [ojb] x-l j-t-l-
+[wx] [8tfx] l-w-j [tf] j-[wl] [29gc] z e [yj] [iz] [pjb] c-
+z y-z-[ec] [9gc] [ez]-j y-j-[ez] [9gc] [ez]-j y-j-[iz]
+[pj] c-i [yj] l-[ec] [9gc] [ez] j-y e-z [30JB] v-x-t
+[ux] [ov] [PJB] o-x-[0uJ] x-t-v [0JB] [txv] u x-t-v-[0JB] [tv]-
+x u [xv]-o-v [PJB] o-x-J-u [tx]-v [0JB] [tv]-x-u [tx] v
+[4qjb] c-l-t i [pc] [sjb] c i [tl]-c [qjb] [tc]-l [ij]-
+l-t-c [qjlb] t [ilc]-j-[pl]-[cb]-j [slcb] [pj] [ijlb] [tlcb]-j [qlcb] [tj]
+[ijlcb] [tlcb]-j [4qjlcb], j,
+j, j, j,
+j, j - g - j - g -
+j - g - j - g - j - g -
+j - g - [djz] - g - j - g -
+j - g - [fjx] - h - j - h -
+j - h - j - h - j - h -
+j - h - [djz] - g - [fjx] - h -
+[gjc] - h - [fjx] - h - [djz] - h -
+[fjx] - h - [gjc] - h - j - h -
+j - h - [fjx] - h - j - h -
+j - h - d g j - d g j -
+d g j - [Edg] [ij] [Pdg] - [Edg] [ij] [Pdg] -
+[Edg] [ij] - [Pdg] - [Edg] [idj] - [Pdg] - [Edg] [idj] [Pdg] -
+[Edg] [idj] - [Pdg] - [tfh] [ofj] [sfh] - [tfh] [ofj] [sfh] -
+[tfh] [oj]-f [sfh] - [tfh] [ofj] [sfh] - [tfh] [oj] [sfh] -
+[tfh] [oj] [sfh] - [ydg] [pdj] [dg] - [ydg] [pdj] [dg] -
+[ydg] [pdj] [dg] - [ydg] [pdj] [dg] - [ydg] [pj] [dg] -
+[ydg] [pdj] [dg] - [tfh] [ofj] [sfh] - [tfh] [ofj] [sfh] -
+[tfh] [ofj] [sfh] - [tfh] [ofj] [sfh] - [tfh] [ofj] [sfh] -
+[tfh] [ofj] [sfh] - [Edg] [idj] [Pdg] - [Edg] [idj] [Pdg] -
+[Edg] [idj] - [Pdg] - [Edg] [idj] - [Pdg] - [Edg] [idj] - [Pdg] -
+[Edg] [idj] [Pdg] - [tfh] [ofj] [sfh] - [tfh] [ofj] [sfh] -
+[tfh] [ofj] [sfh] - [tfh] [ofj] [sfh] - [tfh] [ofj] [sfh] -
+[tfh] [ofj] - [sfh] - [ydg] [pdj] [dg] - [ydg] [pdj] [dg] -
+[ydg] [pdj] [dg] - [ydg] [pdj] [dg] - [ydg] [pdj] [dg] -
+[ydg] [pdj] [dg] - [ufh] [sfj] [fh] - [ufh] [sj] [fh] -
+[ufh] [sfj] [fh] - [ufh] [sfj] [fh] - [ufh] j-s [fh] -
+[ufh] [sfj] [fh] - [Pzc] [gzb] [Jzc] - [Pzc] [gzb] [Jzc] -
+[Pzc] [gzb] [Jzc] - [Pzc] [gzb] [Jzc] - [Pzc] [gzb] [Jzc] -
+[Pzc] [gzb] [Jzc] - [sxv] [xb] [lxv] - [sxv] [hxb] [lxv] -
+[sxv] [hxb] [lxv] - [sxv] [hxb] [lxv] - [sxv] [hxb] [lxv] -
+[sxv] [hxb] [lxv] - [dzc] [jz] z-c - [dzc] [jzb] [zc] -
+[dzc] [jzb] [zc] - [dzc] [jzb] [zc] - [dzc] [jzb] [zc] -
+[dzc] [jzb] [zc] - [sxv] [hxb] [lxv] - [sxv] [hxb] [lxv] -
+[sxv] [hxb] [lxv] - [sxv] [hxb] [lxv] - [sxv] [hxb] [lxv] -
+[sxv] [hxb] [lxv] - [Pcb] [gm] [Jcb] - [Pcb] [gm] - [Jcb] -
+[Pcb] [gcm] [Jcb] - [Pcb] [gm] [Jcb] - [Pcb] [gm] [Jcb] -
+[Pcb] [gcm] [Jcb] - [sxv] [hxm] [lxv] - [sxv] [hxm] [lxv] -
+[sxv] [hm] [lxv] - [sxv] [hxm] [lxv] - [sxv] [hxm] [lxv] -
+[sxv] [hxm] [lxv] - [dcb] [jcm] [zcb] - [dcb] [jcm] [zcb] -
+[dcb] [jcm] [zcb] - [dcb] [jcm] [zcb] - [dcb] [jm] [zcb] -
+[dcb] [jm] [zcb] - [fxv] [lxm] [xv] - [fxv] [lxm] [xv] -
+[fxv] [lxm] [xv] - [fxv] [lxm] x-v - [flxv] [lxm] [xv] -
+[fxv] [lxm] [xv] - [gj], [gx],
+j, [gj], x,
+j, j, x,
+j, j, x

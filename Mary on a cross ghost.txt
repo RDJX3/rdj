@@ -1,0 +1,127 @@
+Transpose by: -1
+o s o p [6s] [0a] [es] [0p]
+t 0 [es] [0a] [6s] [0p] e 0
+[ts] [0a] [es] [0f] 5 [9f] [wa] 9
+r 9 [wa] [9p] [5a] [9o] w 9
+[ro] [9s] [wo] [9p] [6s] [0a] [es] [0p]
+t 0 [es] [0a] [6s] [0p] e 0
+[ts] [0a] [es] [0f] 5 [9f] [wa] 9
+r 9 [wa] [9p] [5a] [9o] w 9
+[ro] [9s] [wo] [9p] 6 [0p] [epf] [0pf]
+[tpf] [0pd] [epd] [0pd] [6pf] 0 e 0
+[tpf] [0pd] [eps] [0ps] [5od] [9od] w 9
+r 9 [wa] [9p] [5a] [9o] w 9
+[ry] [9s] [wo] [9p] 6 [0p] [epf] [0pf]
+[tpf] [0pd] [epd] [0pd] [6pf] 0 e 0
+t [0pf] [ed] [0s] [5d] [9od] w 9
+r 9 [wa] [9p] [5a] [9o] w 9
+[ro] [9s] [wo] [9p] 6 0 [esj] [0sj]
+[tsj] 0 [esh] [0sh] [6sf] 0 e 0
+t [0f] [ed] [0f] [5ah] [9ah] w 9
+r 9 w 9 [5o] [9p] [wp] [9a]
+r [9p] [wa] [9s] [4a] [8p] [qpj] [8pj]
+[epj] [8ph] [qph] [8ph] [4pg] 8 q 8
+[epg] [8pg] [qpf] [8pg] [:e'6] [6pg] [epf] 0
+t p 6 [of] [:q'5] [5of] [wod] 9
+r 9 w 9 6 0 [epf] [0pf]
+[tpf] [0pd] [epd] [0pd] [6pf] 0 e 0
+[tf] [0d] [eps] [0ps] [5od] [9od] w 9
+r 9 [wa] [9p] [5a] [9o] w 9
+[ro] [9s] [wo] [9p] 6 [0p] [epf] [0pf]
+[tpf] [0pd] [epd] [0pd] [6pf] 0 e 0
+t [0pf] [ed] [0s] [5d] [9d] w [9s]
+[ra] 9 [wa] [9p] [5a] [9o] w 9
+[ro] [9s] [wo] [9p] 6 0 [esj] [0sj]
+[tsj] 0 [esh] [0sh] [6sf] 0 e 0
+t [0f] [ed] [0f] [5ah] [9ah] w 9
+r 9 w 9 [5o] [9p] [wp] [9a]
+r [9p] [wa] [9s] [4a] [8p] [qpj] [8pj]
+[epj] [8ph] [qph] [8ph] [4pg] 8 q 8
+[epg] [8pg] [qpf] [8pg] [:e'6] [6pg] [epf] 0
+t p 6 [of] [:q'5] [5of] [wod] 9
+r 9 w 9 4 [8s]-a-[qs] [8p]
+[es]-a-[8s] [qp] [8s]-a-[4s] [8p] [qs] [8p]
+[ea] [8s] [qp] [8o] [18t] 8 [ts] w
+[uf] w [tfl] 8 [:e'6fk] [6l] [ek] [0j]
+[th] 0 [ef] 0 [:8'3] 3 [0f] [7h]
+[wf] 7 [0d] 3 [:q'5] [5a] [wad] [9ah]
+[raf] [9ad] w [9ps] [18] 8 t [ws]
+[uf] w [tfl] 8 [:e'6k] [6l] [ek] [0j]
+[th] 0 [ef] 0 [:8'3] 3 [0f] [7h]
+[wf] 7 [0d] 3 [:q'5] [5a] [waf] [9ah]
+[raf] [9ad] w [9pg] [:9'4] 4 q 8
+e 8 [qp] [8o] [18o] 8 t [wo]
+[uo] w [to]-p [8p] [:q'5o] [5o] w 9
+r 9 [wo] 9 [:e'6oa] 6 e [6oa]
+[:q'5yoa] 5 [wyod] [5yod] [:9'4] [4ips] q 8
+e 8 q [8o] [18osg] 8 t w
+[uof] w t 8 [:q'5od] 5 w [9s]
+[ra] 9 w [9p] [5oa],
+[5o] [9s] [wo] [9p] [6s] [0a] [es] [0p]
+t 0 [es] [0a] [6s] [0p] e 0
+[ts] [0a] [es] [0f] 5 [9f] [wa] 9
+r 9 [wa] [9p] [5a] [9o] w 9
+[ro] [9s] [wo] [9p] 6 [0g] [ef]-g-[0f]-d-
+[tf] [0p] e [0g] [6f]-g-[0f]-d-[ef] [0p]
+t [0h] e [0d] 5 [9s] [wa] 9
+r [9s] [wa]-s-[9a]-p-[5a] [9o] w 9
+[ro] [9s] [wo] [9p] 6 [0p] [epf] [0pf]
+[tpf] [0pd] [epd] [0pd] [6pf] 0 e 0
+t [0f] [es] [0s] [5od] [9od] w 9
+r 9 [wa] [9p] [5a] [9o] w 9
+[ro] [9s] [wo] [9p] 6 0 [epf] [0pf]
+[tpf] [0pd] [epd] [0pd] [6pf] 0 e 0
+t [0f] [es] [0s] [5d] [9h] w [9f]
+[rd] 9 [wa] [9p] [5a] [9o] w 9
+[ro] [9s] [wo] [9p] 6 0 [esj] [0sj]
+[tsj] 0 [esh] [0sh] [6sf] 0 e 0
+t [0f] [ed] [0f] [5ah] [9ah] w 9
+r 9 w 9 [5o] [9p] [wp] [9a]
+r [9p] [wa] [9s] [4a] [8p] [qpj] [8pj]
+[epj] [8ph] [qph] [8ph] [4pg] 8 q 8
+[epg] [8pg] [qpf] [8pg] [:e'6] [6pg] [epf] 0
+t p 6 [of] [:q'5] [5of] [wod] 9
+r 9 w 9 3 [7a]-p-[0a] [7o]
+[wa]-p-[7a] [0o] [7s]-a-[4s] [8p] [qs]-a-[8s]
+[ep] [8s]-a-[qs] [8p] [4s]-a-[8s] [qp] [8a]
+[es] [8a] [qp] [8a] [4f] [8a] [qp] [8a]
+[es] [8a] [qp] o [18u] - s - f -
+l - [:e'6k] l k j h -
+f - [:8'3] - f h f -
+d - [:q'5] - f h f d -
+s [18]... l l
+l [:e'6k] l k j h - f -
+[:8'3] - f h f - d -
+[59w] [9a] [waf] [9ah] [5af] 9 [wad] 9
+[:e'6] 6 [es] 0 [tf] 0 [efl] 0
+[:9'4fk] [4l] [qk] [8j] [eh] 8 [qf] 8
+[18] 8 [tf] [wh] [uf] w [td] 8
+[:q'5] [5a] [wad] [9ah] [:w'%af] [%ad] W [(ps]
+[:e'6] 6 e [0s] [tf] 0 [efl] 6
+[:9'4k] [4l] [qk] [8j] [eh] 8 [qf] 8
+[18] 8 [tf] [wh] [uf] w [td] 8
+[:q'5] [5a] [waf] [5ah] [:w'%af] [%ad] W [(pg]
+[:9'4] 4 q 8 e 8 [qp] [8o]
+[18o] 8 t [wo] [uo] w [to]-p [8p]
+[:q'5o] [5o] w 9 r 9 [wo] 9
+[:e'6oa] 6 e [6oa] [:q'5yoa] 5 [wyod] [5yod]
+[:9'4] [4ips] q 8 e 8 q [8o]
+[18osg] 8 t w [uof] w t 8
+[:q'5od] 5 w [9s] [ra] 9 w [9p]
+[5oa] 9 w r w [9o] 5 9
+[6ups] 0 e 0 [tu] [0p] [es] 0
+[4pg] 8 q 8 [ep] 8 [qg] [8of]
+8 [wo] [tf] [wf]-h [uf] w [td] w
+[:q'5] [5a] [waf] [5ah] [:w'%af] [%ad] W (
+[:e'6ps] 6 e 0 [tps] 0 e 6
+[:9'4pg] 4 q 8 e 8 [qof] [8of]
+[18] [8o] [tf] [wf]-h [uf] w [td] 8
+[:q'5] [5a] [waf] [5ah] [:w'%af] [%ad] W (
+[:e'6pf] 6 e 0 [tpf] 0 e 6
+[4sj] 8 q 8 e [8s] [qj] [8sh]
+[18] [8s] [tf] [wf]-h [uf] w [td] 8
+[:q'5] [5a] [waf] [5ah] [:w'%af] [%d] W (
+[:e'6pj] 6 e 0 t 0 [eh] [6g]
+[4sj] 8 q s [ej] 8 [ql] f
+[18] 8 [tf] [wf]-h [uf] w [td] 8 5 9
+[wf] [9h] [rf] 9 [wd] 9 [18u]-o-s

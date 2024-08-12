@@ -1,0 +1,80 @@
+Transpose by: +7
+d z... [:3'j] b...
+f - x... S - L......
+[^9y] - u i p i u [ey] - i p
+i u y u i p i u y u
+i p i u [9qy] u i p i u
+[ey] u - p i u y u i p
+i u y - i p i u [80t] u
+i p i u [et] u i p i u
+t u i p i f t u i p -
+u [168t] u i p i f [et] u i
+p i u t u - i p i - u -
+t - u - i - p - i - u - [^y] - [9u] -
+q E q [9u] [^y] [9u] [9q] [Ep] q [9u]
+[^y] [9u] q [Ep] [9q] [9u] - [^y] [9u] q [Ep]
+q [9u] 9 - [qu] [ei] [9yp] - e [9qu] [9y] [qu]
+[ei] [yp] [ei] [qu] 9 u [ei] p [ei] [qu] [9y]
+q-u e [yp] [ei] q-u [8t] [0u] w [tp] [wi]
+[0u] - [18t] 0 [wi] [tp] [wi] [0u] 8 0 [wi]
+[tp] [wi] u [18t] [0u] [wi] [tp] [wi] [0u] [6t]
+8 [0i] [ep] 0 8 [6t] [18u] [0i] [ep] [0i]
+[8u] [6t] [18u] 0 [ep] 0 [18u] [6t] [1u] [0i]
+[ep] [0i] [18u] [:r'y] 4 [:r'^] 9 q 9-E p -
+q - [19] - q-[:r'^E]-y 4 [:r'^] 4 [:r'^] 4-E-
+[:r'yp] 4 [:r'^] 9 q - q [2ei] 6 9
+q p q-e-d-p - q, e-2-i
+6 [9y] q e q-e-y-p - [4q] - u
+i - [1u] - 5 8 0 w 0 t-p - w -
+0 - u-1 5 8 0 w 0-t-u-p -
+[1w] - 0 - e-[:e't] 3 6 8 0 - 8-
+e-[tp] - 0 - 8 - [:e't] 3 6
+8 0 8 [ep] - [6eui] 0 - u i [:r'y]
+[4u] - 9 [4p] i 4 [:r'e] [4u] [9qi] [4p] [9i]
+[4u] [:r'y] [4u] [9i] [:r'4p] 9 [4u] [:r'ey] [4u] [9i]
+[:r'4p] [9i]-4 [4u] [2y] 6 [qi] [6p] [qi] - [2eyp]
+[6u] [qi] [6ep] [qi] [6u] [2y] [6u] [qi] p [qi]
+[6u] [2e] f [qei] - [6p] [qi] [6u] [18t] [5u] [0i]
+[5p] i u [1et] [5u] - p [0i] [5u] [1t]
+[5u] [0i] [5p] [0i] [5u] [18etp] u [0i] p [0i]
+[5u] [:e't] [30] i [3p] [8i] [3u] [:e'etp] [3u] [8i]
+[3p] [8i] [3u] [:e't] [30u] [8i] [3p] [8i] [0u] [:e'et]
+u 8 [3p] [8i] 3 [:r'y] [4u] [9i] [4p] [9i]
+[4u] [:r'e] [4u] 9 [4p] - 4 [:r'y] [4u] [9i]
+[4p] [9i] [4u] [:r'ep] [4u] [9i] - [4p] [9i] [4u] [2y]
+[6u] - [qi] [6p] [qi] [6u] [2ey] [6u] q [6p] q
+6 [2y] [6u] q [6p] q [6u] [2ep] [6u] q
+[6ep] q 6 [1t] [5u] 0 [5p] [0i] u [1et]
+[5u] - [5p] [0i] [5u] [1t] u 0 [5p] 0
+[5u] [1etp] u 0 [5p] [0i] [5u] [:e't] [3u] [8i]
+[3p] 8 [3u] [:e'et] [3u] 8 p [8i] 3 t
+[3u] 8 [3p] [8i] [3u] - [:e'8et] [3u] - [18i] - [3p] -
+[18i], u... [^9y] - u -
+p i u [ey] - i p i u y u
+i p i u y u i p i u [9qy]
+u i p i u [ey] u i p i u
+y u i p i u y u i p i
+u [80] - i p i u - [et] u i
+p i u t u i p i u t u
+i p i - [168t] u i p i u
+[et] u i p i u t - u i p -
+u - t... [Eyd] - f
+g j g - [pd] f g j g f d
+f g j g f d f g j g f
+[id] f g j g - [pd] f g j g
+f d - g [$j] g - d f g j
+g f [tu] f g j g f [ps] f
+g j g f s - f g j g f
+s f g j g f [et] - f g j -
+g - [ps] - g j - g - J -
+f j - f h... f......
+e e - r - e u - [6$*] - T,
+[$e] - [3r] - e - T, [26Q],
+[$e] e e r - e - u - [$*Q] - T - e
+[%3r] - e T - [:6'2Q] T...
+e - r - e u - [$*] - T, r -
+[37] - e, u - [26] - T, e
+e - r - e - u - [!$Q] - T - r -
+:t-3 - e, 2 [Q260e],
+[ry] - [ry] - [ry] - [ry] - [eT] - [:0'$], [6*Q] -
+e :8 r - 0 - [eu] - T
